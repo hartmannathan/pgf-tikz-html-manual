@@ -6,13 +6,34 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ## Unreleased
 
+### Fixed
+
+- Resolve parsing ambiguity in general shadow #1435
+- Fix clobbered register in `bending` library #896
+- Fix handling of closepath command in svg.path library #1189
+- Use luatexbase to register pgfsys@strcmp to not sidestep their allocation counting
+- Allow XOR and XNOR gates to have more than 2 inputs #376
+- Fix missing inclusion of libraries in `graphdrawing` examples
+- Fix missing inclusion of libraries in the examples at https://tikz.dev/gd-trees and https://tikz.dev/gd-usage-tikz
+- Fix mis-spelled Kellermann to Kellerman
+- Support an apply-all feature (suggested in issue #640) to
+  apply a single definition of options to multiple examples.
+
 ### Added
 
-- Documentation of `\pgfkeysifassignable`
+- Documentation of `\pgfkeysifassignable` #1423
+- Add a new monotonic interpolation plot handler #1358
+- The keys `actualtext`, `alt`, and `artifact` are now pre-defined as no-ops for usage in tagging #1370
 
 ### Changed
 
 - Typo fixes in the manual
+
+### Contributors
+
+- Dominik Peters
+- Erin Cold
+- Hanson Char
 
 ## [3.1.11a] - 2025-08-29 Henri Menke
 
