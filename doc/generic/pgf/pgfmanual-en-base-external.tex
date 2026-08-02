@@ -94,7 +94,7 @@ As we see in Figure~\ref{fig1}, the world is flat.
 \begin{figure}
   \beginpgfgraphicnamed{graphic-of-flat-world}
   \begin{tikzpicture}
-    \fill (0,0) circle (1cm);
+    \fill (0,0) circle [radius=1cm];
   \end{tikzpicture}
   \endpgfgraphicnamed
   \caption{The flat world.}
@@ -258,7 +258,7 @@ there is a better way: You input the file |pgfexternal.tex|.
     for |\endpgfgraphicnamed|, it is not necessary to actually include the
     packages necessary for \emph{creating} the graphics. So the idea is that
     you comment out things like |\usepackage{tikz}| and instead say
-    |\input pgfexternal.tex|.
+    |\input{pgfexternal.tex}|.
 
     Indeed, the contents of this file is simply the following line:
     %
@@ -266,7 +266,7 @@ there is a better way: You input the file |pgfexternal.tex|.
 \long\def\beginpgfgraphicnamed#1#2\endpgfgraphicnamed{\includegraphics{#1}}
 \end{codeexample}
 
-    Instead of |\input pgfexternal.tex| you could also include this line in
+    Instead of |\input{pgfexternal.tex}| you could also include this line in
     your main file.
 \end{filedescription}
 
@@ -279,8 +279,8 @@ the baseline information is stored into a separate file. This file is named
 
 So, if you need baseline information, you will have to keep the external
 graphic file together with its~|.dpth| file. Furthermore, the short command in
-|\input pgfexternal.tex| is no longer enough because it ignores any baseline
-information. You will need to use |\input pgfexternalwithdepth.tex| instead (it
+|\input{pgfexternal.tex}| is no longer enough because it ignores any baseline
+information. You will need to use |\input{pgfexternalwithdepth.tex}| instead (it
 is shown below). It is slightly longer, but it can be used in the same way as
 |pgfexternal.tex|.
 
@@ -324,7 +324,7 @@ normal file called |survey.tex| that has the following contents:
 \begin{document}
 In the following figure, we see a circle:
 \begin{tikzpicture}
-  \fill (0,0) circle (10pt);
+  \fill (0,0) circle [radius=10pt];
 \end{tikzpicture}
 
 By comparison, in this figure we see a rectangle:
@@ -350,7 +350,7 @@ in separate PostScript or |.pdf|-files. For this, we enclose all figures in
 In the following figure, we see a circle:
 \beginpgfgraphicnamed{survey-f1}
 \begin{tikzpicture}
-  \fill (0,0) circle (10pt);
+  \fill (0,0) circle [radius=10pt];
 \end{tikzpicture}
 \endpgfgraphicnamed
 
@@ -405,7 +405,7 @@ Thus, we modify the main file |survey.tex| as follows:
 \documentclass{article}
 
 \usepackage{graphics}
-\input pgfexternal.tex
+\input{pgfexternal.tex}
 % \usepackage{tikz}
 % \pgfrealjobname{survey}
 
@@ -413,7 +413,7 @@ Thus, we modify the main file |survey.tex| as follows:
 In the following figure, we see a circle:
 \beginpgfgraphicnamed{survey-f1}
 \begin{tikzpicture}
-  \fill (0,0) circle (10pt);
+  \fill (0,0) circle [radius=10pt];
 \end{tikzpicture}
 \endpgfgraphicnamed
 

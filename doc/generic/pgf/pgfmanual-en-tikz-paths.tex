@@ -1344,7 +1344,7 @@ to the |node| operation and discussed in detail in Section~\ref{section-pics}.
     current path, see Section~\ref{section-tikz-animations} for details.
     %
 \begin{codeexample}[imagesource={standalone/pgfmanual-en-tikz-paths-animation-1.svg}]
-\tikz \draw :xshift = {0s = "0cm", 30s = "-3cm", repeats} (0,0) circle (5mm);
+\tikz \draw :xshift = {0s = "0cm", 30s = "-3cm", repeats} (0,0) circle [radius=5mm];
 \end{codeexample}
     %
 \end{pathoperation}
@@ -1359,6 +1359,9 @@ then like to have some \TeX\ code executed, and would then like to resume the
 parsing of the path. This effect can be achieved using the following path
 operation |\pgfextra|. Note that this operation should only be used by real
 experts and should only be used deep inside clever macros, not on normal paths.
+To add a tiny bit of safety when using it on a path anyway and the contents of
+|\pgfextra| contain drawing commands, those should be enclosed between
+|\pgfinterruptpath| and |\endpgfinterruptpath|.
 
 \begin{command}{\pgfextra\marg{code}}
     This command may only be used inside a \tikzname\ path. There it is used
@@ -1418,7 +1421,7 @@ soft path subsystem, refer to section~\ref{section-soft-paths}.
   \path[save path=\pathB,name path=B]
     (0,0) .. controls (.33,.1) and (.66,.9) .. (1,1);
 
-  \fill[name intersections={of=A and B}] (intersection-1) circle (1pt);
+  \fill[name intersections={of=A and B}] (intersection-1) circle [radius=1pt];
 
   \draw[blue][use path=\pathA];
   \draw[red] [use path=\pathB];

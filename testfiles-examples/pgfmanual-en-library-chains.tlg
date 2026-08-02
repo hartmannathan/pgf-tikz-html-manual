@@ -4,15 +4,14 @@ Don't change this file in any respect.
 TEST 1: pgfmanual-en-library-chains-1
 ============================================================
 > \box...=
-\hbox(13.93594+0.0)x106.16333, direction TLT
-.\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+\hbox(13.93594+0.0)x99.50333, direction TLT
 .\hbox(13.93594+0.0)x99.50333, direction TLT
 ..\glue 7.08298
 ..\hbox(0.0+0.0)x0.0, shifted -6.96797, direction TLT
 ...\pdfliteral origin{q }
 ...\pdfliteral origin{0 G }
 ...\pdfliteral origin{0 g }
-...\pdfliteral origin{0.3985 w }
+...\pdfliteral origin{0.39851 w }
 ...\hbox(0.0+0.0)x0.0, direction TLT
 ....\pdfliteral origin{q }
 ....\glue(\spaceskip) 0.0
@@ -37,7 +36,9 @@ TEST 1: pgfmanual-en-library-chains-1
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.16+0.0)x7.5, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 A
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -68,7 +69,9 @@ TEST 1: pgfmanual-en-library-chains-1
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.83+0.0)x7.08, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 B
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -99,7 +102,9 @@ TEST 1: pgfmanual-en-library-chains-1
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.05+0.22)x7.22, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 C
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -114,25 +119,22 @@ TEST 1: pgfmanual-en-library-chains-1
 ...\pdfliteral origin{n }
 ...\pdfliteral origin{Q }
 ...\glue 0.0 plus 1.0fil minus 1.0fil
-.\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
 ! OK.
-\ENDBOXTEST ...th =\maxdimen \showbox \PGFTESTBOX 
-                                                  \endgroup \ENDTEST 
+<argument> \PGFTESTBOX 
 l. ...\ENDBOXTEST
 ============================================================
 ============================================================
 TEST 2: pgfmanual-en-library-chains-2
 ============================================================
 > \box...=
-\hbox(13.93594+0.0)x106.16333, direction TLT
-.\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+\hbox(13.93594+0.0)x99.50333, direction TLT
 .\hbox(13.93594+0.0)x99.50333, direction TLT
 ..\glue 7.08298
 ..\hbox(0.0+0.0)x0.0, shifted -6.96797, direction TLT
 ...\pdfliteral origin{q }
 ...\pdfliteral origin{0 G }
 ...\pdfliteral origin{0 g }
-...\pdfliteral origin{0.3985 w }
+...\pdfliteral origin{0.39851 w }
 ...\hbox(0.0+0.0)x0.0, direction TLT
 ....\pdfliteral origin{q }
 ....\pdfliteral origin{q }
@@ -158,7 +160,9 @@ TEST 2: pgfmanual-en-library-chains-2
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.16+0.0)x7.5, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 A
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -189,7 +193,9 @@ TEST 2: pgfmanual-en-library-chains-2
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.83+0.0)x7.08, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 B
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -220,7 +226,9 @@ TEST 2: pgfmanual-en-library-chains-2
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.05+0.22)x7.22, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 C
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -237,25 +245,22 @@ TEST 2: pgfmanual-en-library-chains-2
 ...\pdfliteral origin{n }
 ...\pdfliteral origin{Q }
 ...\glue 0.0 plus 1.0fil minus 1.0fil
-.\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
 ! OK.
-\ENDBOXTEST ...th =\maxdimen \showbox \PGFTESTBOX 
-                                                  \endgroup \ENDTEST 
+<argument> \PGFTESTBOX 
 l. ...\ENDBOXTEST
 ============================================================
 ============================================================
 TEST 3: pgfmanual-en-library-chains-3
 ============================================================
 > \box...=
-\hbox(84.27194+0.0)x107.04286, direction TLT
-.\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+\hbox(84.27194+0.0)x100.38286, direction TLT
 .\hbox(84.27194+0.0)x100.38286, direction TLT
 ..\glue 7.28297
 ..\hbox(0.0+0.0)x0.0, shifted -77.10397, direction TLT
 ...\pdfliteral origin{q }
 ...\pdfliteral origin{0 G }
 ...\pdfliteral origin{0 g }
-...\pdfliteral origin{0.3985 w }
+...\pdfliteral origin{0.39851 w }
 ...\hbox(0.0+0.0)x0.0, direction TLT
 ....\pdfliteral origin{q }
 ....\glue(\spaceskip) 0.0
@@ -268,7 +273,7 @@ TEST 3: pgfmanual-en-library-chains-3
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
-......\pdfliteral origin{-7.0566 -6.88724 14.1132 13.77448 re }
+......\pdfliteral origin{-7.05652 -6.88716 14.11304 13.7743 re }
 ......\pdfliteral origin{S }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{q }
@@ -282,7 +287,9 @@ TEST 3: pgfmanual-en-library-chains-3
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.16+0.0)x7.5, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 A
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -301,7 +308,7 @@ TEST 3: pgfmanual-en-library-chains-3
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
-......\pdfliteral origin{21.6285 -6.72284 13.69475 13.44568 re }
+......\pdfliteral origin{21.62823 -6.72276 13.6946 13.44553 re }
 ......\pdfliteral origin{S }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{q }
@@ -315,7 +322,9 @@ TEST 3: pgfmanual-en-library-chains-3
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.83+0.0)x7.08, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 B
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -334,7 +343,7 @@ TEST 3: pgfmanual-en-library-chains-3
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
-......\pdfliteral origin{49.89517 -6.94202 13.83424 13.88405 re }
+......\pdfliteral origin{49.89453 -6.94194 13.83409 13.88388 re }
 ......\pdfliteral origin{S }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{q }
@@ -348,7 +357,9 @@ TEST 3: pgfmanual-en-library-chains-3
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.05+0.22)x7.22, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 C
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -367,7 +378,7 @@ TEST 3: pgfmanual-en-library-chains-3
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
-......\pdfliteral origin{8.36214 -20.92116 11.62251 13.49551 re }
+......\pdfliteral origin{8.36203 -20.9209 11.62238 13.49536 re }
 ......\pdfliteral origin{S }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{q }
@@ -381,7 +392,9 @@ TEST 3: pgfmanual-en-library-chains-3
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.66+0.22)x5.0, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 0
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -401,7 +414,7 @@ TEST 3: pgfmanual-en-library-chains-3
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
-......\pdfliteral origin{8.36214 -48.7694 11.62251 13.27634 re }
+......\pdfliteral origin{8.36203 -48.76878 11.62238 13.27618 re }
 ......\pdfliteral origin{S }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{q }
@@ -415,7 +428,9 @@ TEST 3: pgfmanual-en-library-chains-3
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.66+0.0)x5.0, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 1
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -435,7 +450,7 @@ TEST 3: pgfmanual-en-library-chains-3
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
-......\pdfliteral origin{8.36214 -76.61765 11.62251 13.27634 re }
+......\pdfliteral origin{8.36203 -76.61667 11.62238 13.27618 re }
 ......\pdfliteral origin{S }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{q }
@@ -449,7 +464,9 @@ TEST 3: pgfmanual-en-library-chains-3
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.66+0.0)x5.0, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 2
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -468,7 +485,7 @@ TEST 3: pgfmanual-en-library-chains-3
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
-......\pdfliteral origin{78.30133 -6.72284 14.25267 13.44568 re }
+......\pdfliteral origin{78.30032 -6.72276 14.2525 13.44553 re }
 ......\pdfliteral origin{S }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{q }
@@ -482,7 +499,9 @@ TEST 3: pgfmanual-en-library-chains-3
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.83+0.0)x7.64, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 D
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -497,25 +516,22 @@ TEST 3: pgfmanual-en-library-chains-3
 ...\pdfliteral origin{n }
 ...\pdfliteral origin{Q }
 ...\glue 0.0 plus 1.0fil minus 1.0fil
-.\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
 ! OK.
-\ENDBOXTEST ...th =\maxdimen \showbox \PGFTESTBOX 
-                                                  \endgroup \ENDTEST 
+<argument> \PGFTESTBOX 
 l. ...\ENDBOXTEST
 ============================================================
 ============================================================
 TEST 4: pgfmanual-en-library-chains-4
 ============================================================
 > \box...=
-\hbox(94.82286+0.0)x84.22826, direction TLT
-.\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+\hbox(94.82286+0.0)x77.56825, direction TLT
 .\hbox(94.82286+0.0)x77.56825, direction TLT
 ..\glue 14.78297
 ..\hbox(0.0+0.0)x0.0, shifted -87.70988, direction TLT
 ...\pdfliteral origin{q }
 ...\pdfliteral origin{0 G }
 ...\pdfliteral origin{0 g }
-...\pdfliteral origin{0.3985 w }
+...\pdfliteral origin{0.39851 w }
 ...\hbox(0.0+0.0)x0.0, direction TLT
 ....\pdfliteral origin{q }
 ....\glue(\spaceskip) 0.0
@@ -528,7 +544,7 @@ TEST 4: pgfmanual-en-library-chains-4
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
-......\pdfliteral origin{-14.52867 -6.83243 29.05736 13.66487 re }
+......\pdfliteral origin{-14.5285 -6.83235 29.05699 13.6647 re }
 ......\pdfliteral origin{S }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{q }
@@ -542,11 +558,13 @@ TEST 4: pgfmanual-en-library-chains-4
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.94+0.11)x22.5, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 H
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 o
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -565,7 +583,7 @@ TEST 4: pgfmanual-en-library-chains-4
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
-......\pdfliteral origin{29.10057 -6.88724 33.25168 13.77448 re }
+......\pdfliteral origin{29.10022 -6.88716 33.25127 13.7743 re }
 ......\pdfliteral origin{S }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{q }
@@ -579,12 +597,14 @@ TEST 4: pgfmanual-en-library-chains-4
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.94+0.22)x26.70999, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 W
 ...........\kern-0.83 (font)
 ...........\TU/lmr/m/n/10 o
 ...........\TU/lmr/m/n/10 r
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 d
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -604,7 +624,7 @@ TEST 4: pgfmanual-en-library-chains-4
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
-......\pdfliteral origin{41.02103 -31.07913 9.41078 9.61998 re }
+......\pdfliteral origin{41.02051 -31.07875 9.41068 9.61987 re }
 ......\pdfliteral origin{S }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{q }
@@ -618,7 +638,9 @@ TEST 4: pgfmanual-en-library-chains-4
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(1.06+1.93)x2.78, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 ,
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -638,7 +660,7 @@ TEST 4: pgfmanual-en-library-chains-4
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
-......\pdfliteral origin{34.35097 -59.3159 22.75092 13.66487 re }
+......\pdfliteral origin{34.35054 -59.31516 22.75063 13.6647 re }
 ......\pdfliteral origin{S }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{q }
@@ -652,10 +674,12 @@ TEST 4: pgfmanual-en-library-chains-4
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.94+0.11)x16.17, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 t
 ...........\TU/lmr/m/n/10 h
 ...........\TU/lmr/m/n/10 i
 ...........\TU/lmr/m/n/10 s
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -675,7 +699,7 @@ TEST 4: pgfmanual-en-library-chains-4
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
-......\pdfliteral origin{39.05836 -87.18407 13.3361 13.29625 re }
+......\pdfliteral origin{39.05788 -87.18295 13.33595 13.2961 re }
 ......\pdfliteral origin{S }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{q }
@@ -689,8 +713,10 @@ TEST 4: pgfmanual-en-library-chains-4
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.57+0.11)x6.72, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 i
 ...........\TU/lmr/m/n/10 s
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -705,25 +731,22 @@ TEST 4: pgfmanual-en-library-chains-4
 ...\pdfliteral origin{n }
 ...\pdfliteral origin{Q }
 ...\glue 0.0 plus 1.0fil minus 1.0fil
-.\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
 ! OK.
-\ENDBOXTEST ...th =\maxdimen \showbox \PGFTESTBOX 
-                                                  \endgroup \ENDTEST 
+<argument> \PGFTESTBOX 
 l. ...\ENDBOXTEST
 ============================================================
 ============================================================
 TEST 5: pgfmanual-en-library-chains-5
 ============================================================
 > \box...=
-\hbox(84.27194+0.0)x107.04286, direction TLT
-.\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+\hbox(84.27194+0.0)x100.38286, direction TLT
 .\hbox(84.27194+0.0)x100.38286, direction TLT
 ..\glue 7.28297
 ..\hbox(0.0+0.0)x0.0, shifted -77.10397, direction TLT
 ...\pdfliteral origin{q }
 ...\pdfliteral origin{0 G }
 ...\pdfliteral origin{0 g }
-...\pdfliteral origin{0.3985 w }
+...\pdfliteral origin{0.39851 w }
 ...\hbox(0.0+0.0)x0.0, direction TLT
 ....\pdfliteral origin{q }
 ....\pdfliteral origin{q }
@@ -737,7 +760,7 @@ TEST 5: pgfmanual-en-library-chains-5
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
-......\pdfliteral origin{-7.0566 -6.88724 14.1132 13.77448 re }
+......\pdfliteral origin{-7.05652 -6.88716 14.11304 13.7743 re }
 ......\pdfliteral origin{S }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{q }
@@ -751,7 +774,9 @@ TEST 5: pgfmanual-en-library-chains-5
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.16+0.0)x7.5, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 A
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -770,7 +795,7 @@ TEST 5: pgfmanual-en-library-chains-5
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
-......\pdfliteral origin{21.6285 -6.72284 13.69475 13.44568 re }
+......\pdfliteral origin{21.62823 -6.72276 13.6946 13.44553 re }
 ......\pdfliteral origin{S }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{q }
@@ -784,7 +809,9 @@ TEST 5: pgfmanual-en-library-chains-5
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.83+0.0)x7.08, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 B
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -803,7 +830,7 @@ TEST 5: pgfmanual-en-library-chains-5
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
-......\pdfliteral origin{49.89517 -6.94202 13.83424 13.88405 re }
+......\pdfliteral origin{49.89453 -6.94194 13.83409 13.88388 re }
 ......\pdfliteral origin{S }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{q }
@@ -817,7 +844,9 @@ TEST 5: pgfmanual-en-library-chains-5
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.05+0.22)x7.22, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 C
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -839,7 +868,7 @@ TEST 5: pgfmanual-en-library-chains-5
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
-......\pdfliteral origin{8.36214 -20.92116 11.62251 13.49551 re }
+......\pdfliteral origin{8.36203 -20.9209 11.62238 13.49536 re }
 ......\pdfliteral origin{S }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{q }
@@ -853,7 +882,9 @@ TEST 5: pgfmanual-en-library-chains-5
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.66+0.22)x5.0, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 0
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -873,7 +904,7 @@ TEST 5: pgfmanual-en-library-chains-5
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
-......\pdfliteral origin{8.36214 -48.7694 11.62251 13.27634 re }
+......\pdfliteral origin{8.36203 -48.76878 11.62238 13.27618 re }
 ......\pdfliteral origin{S }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{q }
@@ -887,7 +918,9 @@ TEST 5: pgfmanual-en-library-chains-5
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.66+0.0)x5.0, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 1
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -907,7 +940,7 @@ TEST 5: pgfmanual-en-library-chains-5
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
-......\pdfliteral origin{8.36214 -76.61765 11.62251 13.27634 re }
+......\pdfliteral origin{8.36203 -76.61667 11.62238 13.27618 re }
 ......\pdfliteral origin{S }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{q }
@@ -921,7 +954,9 @@ TEST 5: pgfmanual-en-library-chains-5
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.66+0.0)x5.0, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 2
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -943,7 +978,7 @@ TEST 5: pgfmanual-en-library-chains-5
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
-......\pdfliteral origin{78.30133 -6.72284 14.25267 13.44568 re }
+......\pdfliteral origin{78.30032 -6.72276 14.2525 13.44553 re }
 ......\pdfliteral origin{S }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{q }
@@ -957,7 +992,9 @@ TEST 5: pgfmanual-en-library-chains-5
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.83+0.0)x7.64, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 D
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -974,25 +1011,22 @@ TEST 5: pgfmanual-en-library-chains-5
 ...\pdfliteral origin{n }
 ...\pdfliteral origin{Q }
 ...\glue 0.0 plus 1.0fil minus 1.0fil
-.\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
 ! OK.
-\ENDBOXTEST ...th =\maxdimen \showbox \PGFTESTBOX 
-                                                  \endgroup \ENDTEST 
+<argument> \PGFTESTBOX 
 l. ...\ENDBOXTEST
 ============================================================
 ============================================================
 TEST 6: pgfmanual-en-library-chains-6
 ============================================================
 > \box...=
-\hbox(98.90417+0.0)x97.96635, direction TLT
-.\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+\hbox(98.90417+0.0)x91.30635, direction TLT
 .\hbox(98.90417+0.0)x91.30635, direction TLT
 ..\glue 48.51208
 ..\hbox(0.0+0.0)x0.0, shifted -49.45209, direction TLT
 ...\pdfliteral origin{q }
 ...\pdfliteral origin{0 G }
 ...\pdfliteral origin{0 g }
-...\pdfliteral origin{0.3985 w }
+...\pdfliteral origin{0.39851 w }
 ...\hbox(0.0+0.0)x0.0, direction TLT
 ....\pdfliteral origin{q }
 ....\glue(\spaceskip) 0.0
@@ -1017,7 +1051,9 @@ TEST 6: pgfmanual-en-library-chains-6
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.66+0.0)x5.0, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 1
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1047,7 +1083,9 @@ TEST 6: pgfmanual-en-library-chains-6
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.66+0.0)x5.0, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 2
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1077,7 +1115,9 @@ TEST 6: pgfmanual-en-library-chains-6
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.66+0.22)x5.0, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 3
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1107,7 +1147,9 @@ TEST 6: pgfmanual-en-library-chains-6
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.77+0.0)x5.0, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 4
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1137,7 +1179,9 @@ TEST 6: pgfmanual-en-library-chains-6
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.66+0.22)x5.0, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 5
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1167,7 +1211,9 @@ TEST 6: pgfmanual-en-library-chains-6
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.66+0.22)x5.0, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 6
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1197,7 +1243,9 @@ TEST 6: pgfmanual-en-library-chains-6
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.76+0.22)x5.0, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 7
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1227,7 +1275,9 @@ TEST 6: pgfmanual-en-library-chains-6
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.66+0.22)x5.0, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 8
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1257,7 +1307,9 @@ TEST 6: pgfmanual-en-library-chains-6
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.66+0.22)x5.0, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 9
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1287,8 +1339,10 @@ TEST 6: pgfmanual-en-library-chains-6
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.66+0.22)x10.0, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 1
 ...........\TU/lmr/m/n/10 0
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1303,8 +1357,8 @@ TEST 6: pgfmanual-en-library-chains-6
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
-....\pdfliteral origin{34.99277 14.42267 m }
-....\pdfliteral origin{23.12129 -29.87665 l }
+....\pdfliteral origin{34.99234 14.4225 m }
+....\pdfliteral origin{23.121 -29.87628 l }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
@@ -1313,25 +1367,22 @@ TEST 6: pgfmanual-en-library-chains-6
 ...\pdfliteral origin{n }
 ...\pdfliteral origin{Q }
 ...\glue 0.0 plus 1.0fil minus 1.0fil
-.\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
 ! OK.
-\ENDBOXTEST ...th =\maxdimen \showbox \PGFTESTBOX 
-                                                  \endgroup \ENDTEST 
+<argument> \PGFTESTBOX 
 l. ...\ENDBOXTEST
 ============================================================
 ============================================================
 TEST 7: pgfmanual-en-library-chains-7
 ============================================================
 > \box...=
-\hbox(14.22595+0.0)x99.93057, direction TLT
-.\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+\hbox(14.22595+0.0)x93.27057, direction TLT
 .\hbox(14.22595+0.0)x93.27057, direction TLT
 ..\glue 3.53297
 ..\hbox(0.0+0.0)x0.0, shifted -7.11298, direction TLT
 ...\pdfliteral origin{q }
 ...\pdfliteral origin{0 G }
 ...\pdfliteral origin{0 g }
-...\pdfliteral origin{0.3985 w }
+...\pdfliteral origin{0.39851 w }
 ...\hbox(0.0+0.0)x0.0, direction TLT
 ....\pdfliteral origin{q }
 ....\glue(\spaceskip) 0.0
@@ -1344,7 +1395,7 @@ TEST 7: pgfmanual-en-library-chains-7
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
-......\pdfliteral origin{-3.32056 -3.32056 6.64113 6.64113 re }
+......\pdfliteral origin{-3.32053 -3.32053 6.64105 6.64105 re }
 ......\pdfliteral origin{S }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{q }
@@ -1358,6 +1409,8 @@ TEST 7: pgfmanual-en-library-chains-7
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1376,7 +1429,7 @@ TEST 7: pgfmanual-en-library-chains-7
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
-......\pdfliteral origin{17.89246 -6.83243 29.61526 13.66487 re }
+......\pdfliteral origin{17.89224 -6.83235 29.6149 13.6647 re }
 ......\pdfliteral origin{S }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{q }
@@ -1390,11 +1443,13 @@ TEST 7: pgfmanual-en-library-chains-7
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.94+0.11)x23.06, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 H
 ...........\TU/lmr/m/n/10 a
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 o
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1413,7 +1468,7 @@ TEST 7: pgfmanual-en-library-chains-7
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
-......\pdfliteral origin{62.07964 -6.88724 27.12457 13.77448 re }
+......\pdfliteral origin{62.07886 -6.88716 27.12424 13.7743 re }
 ......\pdfliteral origin{S }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{q }
@@ -1427,11 +1482,13 @@ TEST 7: pgfmanual-en-library-chains-7
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.94+0.22)x20.56, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 W
 ...........\kern-0.83 (font)
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 t
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1446,25 +1503,22 @@ TEST 7: pgfmanual-en-library-chains-7
 ...\pdfliteral origin{n }
 ...\pdfliteral origin{Q }
 ...\glue 0.0 plus 1.0fil minus 1.0fil
-.\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
 ! OK.
-\ENDBOXTEST ...th =\maxdimen \showbox \PGFTESTBOX 
-                                                  \endgroup \ENDTEST 
+<argument> \PGFTESTBOX 
 l. ...\ENDBOXTEST
 ============================================================
 ============================================================
 TEST 8: pgfmanual-en-library-chains-8
 ============================================================
 > \box...=
-\hbox(40.53825+0.0)x137.73787, direction TLT
-.\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+\hbox(40.53825+0.0)x131.07787, direction TLT
 .\hbox(40.53825+0.0)x131.07787, direction TLT
 ..\glue 14.78297
 ..\hbox(0.0+0.0)x0.0, shifted -33.42528, direction TLT
 ...\pdfliteral origin{q }
 ...\pdfliteral origin{0 G }
 ...\pdfliteral origin{0 g }
-...\pdfliteral origin{0.3985 w }
+...\pdfliteral origin{0.39851 w }
 ...\hbox(0.0+0.0)x0.0, direction TLT
 ....\pdfliteral origin{q }
 ....\glue(\spaceskip) 0.0
@@ -1477,7 +1531,7 @@ TEST 8: pgfmanual-en-library-chains-8
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
-......\pdfliteral origin{-14.52867 -6.83243 29.05736 13.66487 re }
+......\pdfliteral origin{-14.5285 -6.83235 29.05699 13.6647 re }
 ......\pdfliteral origin{S }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{q }
@@ -1491,11 +1545,13 @@ TEST 8: pgfmanual-en-library-chains-8
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.94+0.11)x22.5, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 H
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 o
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1514,7 +1570,7 @@ TEST 8: pgfmanual-en-library-chains-8
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
-......\pdfliteral origin{29.10057 -6.88724 33.25168 13.77448 re }
+......\pdfliteral origin{29.10022 -6.88716 33.25127 13.7743 re }
 ......\pdfliteral origin{S }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{q }
@@ -1528,12 +1584,14 @@ TEST 8: pgfmanual-en-library-chains-8
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.94+0.22)x26.70999, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 W
 ...........\kern-0.83 (font)
 ...........\TU/lmr/m/n/10 o
 ...........\TU/lmr/m/n/10 r
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 d
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1554,7 +1612,7 @@ TEST 8: pgfmanual-en-library-chains-8
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
-......\pdfliteral origin{41.02103 -31.07913 9.41078 9.61998 re }
+......\pdfliteral origin{41.02051 -31.07875 9.41068 9.61987 re }
 ......\pdfliteral origin{S }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{q }
@@ -1568,7 +1626,9 @@ TEST 8: pgfmanual-en-library-chains-8
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(1.06+1.93)x2.78, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 ,
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1587,7 +1647,7 @@ TEST 8: pgfmanual-en-library-chains-8
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
-......\pdfliteral origin{65.00371 -33.10158 22.75092 13.66487 re }
+......\pdfliteral origin{65.00288 -33.10117 22.75063 13.6647 re }
 ......\pdfliteral origin{S }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{q }
@@ -1601,10 +1661,12 @@ TEST 8: pgfmanual-en-library-chains-8
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.94+0.11)x16.17, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 t
 ...........\TU/lmr/m/n/10 h
 ...........\TU/lmr/m/n/10 i
 ...........\TU/lmr/m/n/10 s
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1623,7 +1685,7 @@ TEST 8: pgfmanual-en-library-chains-8
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
-......\pdfliteral origin{102.32654 -32.91727 13.3361 13.29625 re }
+......\pdfliteral origin{102.32523 -32.91685 13.33595 13.2961 re }
 ......\pdfliteral origin{S }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{q }
@@ -1637,8 +1699,10 @@ TEST 8: pgfmanual-en-library-chains-8
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.57+0.11)x6.72, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 i
 ...........\TU/lmr/m/n/10 s
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1653,25 +1717,22 @@ TEST 8: pgfmanual-en-library-chains-8
 ...\pdfliteral origin{n }
 ...\pdfliteral origin{Q }
 ...\glue 0.0 plus 1.0fil minus 1.0fil
-.\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
 ! OK.
-\ENDBOXTEST ...th =\maxdimen \showbox \PGFTESTBOX 
-                                                  \endgroup \ENDTEST 
+<argument> \PGFTESTBOX 
 l. ...\ENDBOXTEST
 ============================================================
 ============================================================
 TEST 9: pgfmanual-en-library-chains-9
 ============================================================
 > \box...=
-\hbox(63.86845+0.0)x98.1512, direction TLT
-.\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+\hbox(63.86845+0.0)x91.4912, direction TLT
 .\hbox(63.86845+0.0)x91.4912, direction TLT
 ..\glue 6.03297
 ..\hbox(0.0+0.0)x0.0, shifted -6.86298, direction TLT
 ...\pdfliteral origin{q }
 ...\pdfliteral origin{0 G }
 ...\pdfliteral origin{0 g }
-...\pdfliteral origin{0.3985 w }
+...\pdfliteral origin{0.39851 w }
 ...\hbox(0.0+0.0)x0.0, direction TLT
 ....\pdfliteral origin{q }
 ....\glue(\spaceskip) 0.0
@@ -1692,23 +1753,23 @@ TEST 9: pgfmanual-en-library-chains-9
 ....\pdfliteral origin{q }
 ....\pdfliteral origin{0.5 G }
 ....\pdfliteral origin{0.5 g }
-....\pdfliteral origin{0.19925 w }
+....\pdfliteral origin{0.19926 w }
 ....\pdfliteral origin{0.0 0.0 m }
 ....\pdfliteral origin{0.0 0.0 m }
-....\pdfliteral origin{85.04042 0.0 l }
-....\pdfliteral origin{0.0 28.3468 m }
-....\pdfliteral origin{85.04042 28.3468 l }
-....\pdfliteral origin{0.0 56.68365 m }
-....\pdfliteral origin{85.04042 56.68365 l }
+....\pdfliteral origin{85.03934 0.0 l }
+....\pdfliteral origin{0.0 28.34645 m }
+....\pdfliteral origin{85.03934 28.34645 l }
+....\pdfliteral origin{0.0 56.68294 m }
+....\pdfliteral origin{85.03934 56.68294 l }
 ....\pdfliteral origin{0.0 0.0 m }
-....\pdfliteral origin{0.0 56.69362 l }
-....\pdfliteral origin{28.3468 0.0 m }
-....\pdfliteral origin{28.3468 56.69362 l }
-....\pdfliteral origin{56.69362 0.0 m }
-....\pdfliteral origin{56.69362 56.69362 l }
-....\pdfliteral origin{85.03047 0.0 m }
-....\pdfliteral origin{85.03047 56.69362 l }
-....\pdfliteral origin{85.04042 56.69362 m }
+....\pdfliteral origin{0.0 56.6929 l }
+....\pdfliteral origin{28.34645 0.0 m }
+....\pdfliteral origin{28.34645 56.6929 l }
+....\pdfliteral origin{56.6929 0.0 m }
+....\pdfliteral origin{56.6929 56.6929 l }
+....\pdfliteral origin{85.02939 0.0 m }
+....\pdfliteral origin{85.02939 56.6929 l }
+....\pdfliteral origin{85.03934 56.6929 m }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\pdfliteral origin{Q }
@@ -1722,7 +1783,7 @@ TEST 9: pgfmanual-en-library-chains-9
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
-......\pdfliteral origin{-5.81125 -6.63817 11.62251 13.27634 re }
+......\pdfliteral origin{-5.81119 -6.63809 11.62238 13.27618 re }
 ......\pdfliteral origin{S }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{q }
@@ -1736,7 +1797,9 @@ TEST 9: pgfmanual-en-library-chains-9
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.66+0.0)x5.0, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 1
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1755,7 +1818,7 @@ TEST 9: pgfmanual-en-library-chains-9
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
-......\pdfliteral origin{10.02042 7.34096 29.05736 13.66487 re }
+......\pdfliteral origin{10.02031 7.34087 29.05699 13.6647 re }
 ......\pdfliteral origin{S }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{q }
@@ -1769,11 +1832,13 @@ TEST 9: pgfmanual-en-library-chains-9
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.94+0.11)x22.5, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 H
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 o
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1792,7 +1857,7 @@ TEST 9: pgfmanual-en-library-chains-9
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
-......\pdfliteral origin{32.47238 21.45955 33.25168 13.77448 re }
+......\pdfliteral origin{32.47197 21.45929 33.25127 13.7743 re }
 ......\pdfliteral origin{S }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{q }
@@ -1806,12 +1871,14 @@ TEST 9: pgfmanual-en-library-chains-9
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.94+0.22)x26.70999, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 W
 ...........\kern-0.83 (font)
 ...........\TU/lmr/m/n/10 o
 ...........\TU/lmr/m/n/10 r
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 d
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1830,7 +1897,7 @@ TEST 9: pgfmanual-en-library-chains-9
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
-......\pdfliteral origin{68.94194 38.67159 9.41078 7.69717 re }
+......\pdfliteral origin{68.94107 38.67111 9.41068 7.6971 re }
 ......\pdfliteral origin{S }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{q }
@@ -1844,7 +1911,9 @@ TEST 9: pgfmanual-en-library-chains-9
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(1.06+0.0)x2.78, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 .
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1859,25 +1928,22 @@ TEST 9: pgfmanual-en-library-chains-9
 ...\pdfliteral origin{n }
 ...\pdfliteral origin{Q }
 ...\glue 0.0 plus 1.0fil minus 1.0fil
-.\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
 ! OK.
-\ENDBOXTEST ...th =\maxdimen \showbox \PGFTESTBOX 
-                                                  \endgroup \ENDTEST 
+<argument> \PGFTESTBOX 
 l. ...\ENDBOXTEST
 ============================================================
 ============================================================
 TEST 10: pgfmanual-en-library-chains-10
 ============================================================
 > \box...=
-\hbox(71.86644+0.0)x112.87054, direction TLT
-.\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+\hbox(71.86644+0.0)x106.21054, direction TLT
 .\hbox(71.86644+0.0)x106.21054, direction TLT
 ..\glue 20.36797
 ..\hbox(0.0+0.0)x0.0, shifted -7.11298, direction TLT
 ...\pdfliteral origin{q }
 ...\pdfliteral origin{0 G }
 ...\pdfliteral origin{0 g }
-...\pdfliteral origin{0.3985 w }
+...\pdfliteral origin{0.39851 w }
 ...\hbox(0.0+0.0)x0.0, direction TLT
 ....\pdfliteral origin{q }
 ....\glue(\spaceskip) 0.0
@@ -1898,23 +1964,23 @@ TEST 10: pgfmanual-en-library-chains-10
 ....\pdfliteral origin{q }
 ....\pdfliteral origin{0.5 G }
 ....\pdfliteral origin{0.5 g }
-....\pdfliteral origin{0.19925 w }
+....\pdfliteral origin{0.19926 w }
 ....\pdfliteral origin{0.0 0.0 m }
 ....\pdfliteral origin{0.0 0.0 m }
-....\pdfliteral origin{85.04042 0.0 l }
-....\pdfliteral origin{0.0 28.3468 m }
-....\pdfliteral origin{85.04042 28.3468 l }
-....\pdfliteral origin{0.0 56.68365 m }
-....\pdfliteral origin{85.04042 56.68365 l }
+....\pdfliteral origin{85.03934 0.0 l }
+....\pdfliteral origin{0.0 28.34645 m }
+....\pdfliteral origin{85.03934 28.34645 l }
+....\pdfliteral origin{0.0 56.68294 m }
+....\pdfliteral origin{85.03934 56.68294 l }
 ....\pdfliteral origin{0.0 0.0 m }
-....\pdfliteral origin{0.0 56.69362 l }
-....\pdfliteral origin{28.3468 0.0 m }
-....\pdfliteral origin{28.3468 56.69362 l }
-....\pdfliteral origin{56.69362 0.0 m }
-....\pdfliteral origin{56.69362 56.69362 l }
-....\pdfliteral origin{85.03047 0.0 m }
-....\pdfliteral origin{85.03047 56.69362 l }
-....\pdfliteral origin{85.04042 56.69362 m }
+....\pdfliteral origin{0.0 56.6929 l }
+....\pdfliteral origin{28.34645 0.0 m }
+....\pdfliteral origin{28.34645 56.6929 l }
+....\pdfliteral origin{56.6929 0.0 m }
+....\pdfliteral origin{56.6929 56.6929 l }
+....\pdfliteral origin{85.02939 0.0 m }
+....\pdfliteral origin{85.02939 56.6929 l }
+....\pdfliteral origin{85.03934 56.6929 m }
 ....\pdfliteral origin{S }
 ....\glue(\spaceskip) 0.0
 ....\pdfliteral origin{Q }
@@ -1928,7 +1994,7 @@ TEST 10: pgfmanual-en-library-chains-10
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{q }
 ......\pdfcolorstack 0 push {1 0 0 rg 1 0 0 RG}
-......\pdfliteral origin{-20.09288 49.07411 40.18576 15.239 re }
+......\pdfliteral origin{-20.09264 49.07349 40.18526 15.23882 re }
 ......\pdfliteral origin{S }
 ......\glue(\spaceskip) 0.0
 ......\pdfcolorstack 0 pop
@@ -1944,6 +2010,7 @@ TEST 10: pgfmanual-en-library-chains-10
 ..........\pdfliteral origin{1 0 0 RG }
 ..........\pdfliteral origin{1 0 0 rg }
 ..........\hbox(6.57+2.06)x33.67, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {1 0 0 rg 1 0 0 RG}
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 x
@@ -1958,6 +2025,7 @@ TEST 10: pgfmanual-en-library-chains-10
 ...........\TU/lmr/m/n/10 n
 ...........\TU/lmr/m/n/10 g
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1978,7 +2046,7 @@ TEST 10: pgfmanual-en-library-chains-10
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
-......\pdfliteral origin{-14.52867 -6.83243 29.05736 13.66487 re }
+......\pdfliteral origin{-14.5285 -6.83235 29.05699 13.6647 re }
 ......\pdfliteral origin{S }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{q }
@@ -1992,11 +2060,13 @@ TEST 10: pgfmanual-en-library-chains-10
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.94+0.11)x22.5, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 H
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 o
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2016,7 +2086,7 @@ TEST 10: pgfmanual-en-library-chains-10
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
-......\pdfliteral origin{29.10057 -6.88724 33.25168 13.77448 re }
+......\pdfliteral origin{29.10022 -6.88716 33.25127 13.7743 re }
 ......\pdfliteral origin{S }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{q }
@@ -2030,12 +2100,14 @@ TEST 10: pgfmanual-en-library-chains-10
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.94+0.22)x26.70999, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 W
 ...........\kern-0.83 (font)
 ...........\TU/lmr/m/n/10 o
 ...........\TU/lmr/m/n/10 r
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 d
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2052,12 +2124,12 @@ TEST 10: pgfmanual-en-library-chains-10
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
-......\pdfliteral origin{14.72792 0.0 m }
-......\pdfliteral origin{28.44304 0.0 l }
+......\pdfliteral origin{14.72775 0.0 m }
+......\pdfliteral origin{28.44269 0.0 l }
 ......\pdfliteral origin{S }
 ......\pdfliteral origin{q }
-......\pdfliteral origin{1.0 0.0 0.0 1.0 28.44304 0.0 cm }
-......\pdfliteral origin{q 0.31879 w [ ] 0.0 d 1 J 1 j -1.19551 1.59401 m -1.09587 0.99626 0.0 0.09961 0.29886 0.0 c 0.0 -0.09961 -1.09587 -0.99626 -1.19551 -1.59401 c S Q  }
+......\pdfliteral origin{1.0 0.0 0.0 1.0 28.44269 0.0 cm }
+......\pdfliteral origin{q 0.3188 w [ ] 0.0 d 1 J 1 j -1.19551 1.59401 m -1.09587 0.99626 0.0 0.09962 0.29887 0.0 c 0.0 -0.09962 -1.09587 -0.99626 -1.19551 -1.59401 c S Q  }
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
@@ -2075,12 +2147,12 @@ TEST 10: pgfmanual-en-library-chains-10
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
-......\pdfliteral origin{40.01418 7.08649 m }
-......\pdfliteral origin{6.59023 48.51819 l }
+......\pdfliteral origin{40.01367 7.08641 m }
+......\pdfliteral origin{6.59016 48.51758 l }
 ......\pdfliteral origin{S }
 ......\pdfliteral origin{q }
-......\pdfliteral origin{-0.62785 0.77829 -0.77829 -0.62785 6.59023 48.51819 cm }
-......\pdfliteral origin{q 0.31879 w [ ] 0.0 d 1 J 1 j -1.19551 1.59401 m -1.09587 0.99626 0.0 0.09961 0.29886 0.0 c 0.0 -0.09961 -1.09587 -0.99626 -1.19551 -1.59401 c S Q  }
+......\pdfliteral origin{-0.62785 0.77829 -0.77829 -0.62785 6.59016 48.51758 cm }
+......\pdfliteral origin{q 0.3188 w [ ] 0.0 d 1 J 1 j -1.19551 1.59401 m -1.09587 0.99626 0.0 0.09962 0.29887 0.0 c 0.0 -0.09962 -1.09587 -0.99626 -1.19551 -1.59401 c S Q  }
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
@@ -2097,7 +2169,7 @@ TEST 10: pgfmanual-en-library-chains-10
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
-......\pdfliteral origin{34.66478 49.86118 22.75092 13.66487 re }
+......\pdfliteral origin{34.66434 49.86055 22.75063 13.6647 re }
 ......\pdfliteral origin{S }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{q }
@@ -2111,10 +2183,12 @@ TEST 10: pgfmanual-en-library-chains-10
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.94+0.11)x16.17, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 t
 ...........\TU/lmr/m/n/10 h
 ...........\TU/lmr/m/n/10 i
 ...........\TU/lmr/m/n/10 s
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2129,12 +2203,12 @@ TEST 10: pgfmanual-en-library-chains-10
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
-......\pdfliteral origin{20.29213 56.69362 m }
-......\pdfliteral origin{34.00725 56.69362 l }
+......\pdfliteral origin{20.29189 56.6929 m }
+......\pdfliteral origin{34.00682 56.6929 l }
 ......\pdfliteral origin{S }
 ......\pdfliteral origin{q }
-......\pdfliteral origin{1.0 0.0 0.0 1.0 34.00725 56.69362 cm }
-......\pdfliteral origin{q 0.31879 w [ ] 0.0 d 1 J 1 j -1.19551 1.59401 m -1.09587 0.99626 0.0 0.09961 0.29886 0.0 c 0.0 -0.09961 -1.09587 -0.99626 -1.19551 -1.59401 c S Q  }
+......\pdfliteral origin{1.0 0.0 0.0 1.0 34.00682 56.6929 cm }
+......\pdfliteral origin{q 0.3188 w [ ] 0.0 d 1 J 1 j -1.19551 1.59401 m -1.09587 0.99626 0.0 0.09962 0.29887 0.0 c 0.0 -0.09962 -1.09587 -0.99626 -1.19551 -1.59401 c S Q  }
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
@@ -2151,7 +2225,7 @@ TEST 10: pgfmanual-en-library-chains-10
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
-......\pdfliteral origin{71.9876 50.04549 13.3361 13.29625 re }
+......\pdfliteral origin{71.98668 50.04485 13.33595 13.2961 re }
 ......\pdfliteral origin{S }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{q }
@@ -2165,8 +2239,10 @@ TEST 10: pgfmanual-en-library-chains-10
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.57+0.11)x6.72, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 i
 ...........\TU/lmr/m/n/10 s
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2181,12 +2257,12 @@ TEST 10: pgfmanual-en-library-chains-10
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
-......\pdfliteral origin{57.61494 56.69362 m }
-......\pdfliteral origin{71.33006 56.69362 l }
+......\pdfliteral origin{57.61421 56.6929 m }
+......\pdfliteral origin{71.32916 56.6929 l }
 ......\pdfliteral origin{S }
 ......\pdfliteral origin{q }
-......\pdfliteral origin{1.0 0.0 0.0 1.0 71.33006 56.69362 cm }
-......\pdfliteral origin{q 0.31879 w [ ] 0.0 d 1 J 1 j -1.19551 1.59401 m -1.09587 0.99626 0.0 0.09961 0.29886 0.0 c 0.0 -0.09961 -1.09587 -0.99626 -1.19551 -1.59401 c S Q  }
+......\pdfliteral origin{1.0 0.0 0.0 1.0 71.32916 56.6929 cm }
+......\pdfliteral origin{q 0.3188 w [ ] 0.0 d 1 J 1 j -1.19551 1.59401 m -1.09587 0.99626 0.0 0.09962 0.29887 0.0 c 0.0 -0.09962 -1.09587 -0.99626 -1.19551 -1.59401 c S Q  }
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
@@ -2201,25 +2277,22 @@ TEST 10: pgfmanual-en-library-chains-10
 ...\pdfliteral origin{n }
 ...\pdfliteral origin{Q }
 ...\glue 0.0 plus 1.0fil minus 1.0fil
-.\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
 ! OK.
-\ENDBOXTEST ...th =\maxdimen \showbox \PGFTESTBOX 
-                                                  \endgroup \ENDTEST 
+<argument> \PGFTESTBOX 
 l. ...\ENDBOXTEST
 ============================================================
 ============================================================
 TEST 11: pgfmanual-en-library-chains-11
 ============================================================
 > \box...=
-\hbox(131.83728+0.0)x119.17526, direction TLT
-.\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+\hbox(131.83728+0.0)x112.51526, direction TLT
 .\hbox(131.83728+0.0)x112.51526, direction TLT
 ..\glue 56.25763
 ..\hbox(0.0+0.0)x0.0, shifted -65.91864, direction TLT
 ...\pdfliteral origin{q }
 ...\pdfliteral origin{0 G }
 ...\pdfliteral origin{0 g }
-...\pdfliteral origin{0.3985 w }
+...\pdfliteral origin{0.39851 w }
 ...\hbox(0.0+0.0)x0.0, direction TLT
 ....\pdfliteral origin{q }
 ....\hbox(0.0+0.0)x0.0, direction TLT
@@ -2229,7 +2302,7 @@ TEST 11: pgfmanual-en-library-chains-11
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
-......\pdfliteral origin{-55.8489 -65.47395 111.69783 130.94792 re }
+......\pdfliteral origin{-55.8482 -65.47313 111.69641 130.94624 re }
 ......\pdfliteral origin{S }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{q }
@@ -2255,7 +2328,7 @@ TEST 11: pgfmanual-en-library-chains-11
 ................\glue(\spaceskip) 0.0
 ................\glue(\spaceskip) 0.0
 ................\glue(\spaceskip) 0.0
-................\pdfliteral origin{-16.62584 -3.53975 33.25168 13.77448 re }
+................\pdfliteral origin{-16.62564 -3.53972 33.25127 13.7743 re }
 ................\pdfliteral origin{S }
 ................\glue(\spaceskip) 0.0
 ................\pdfliteral origin{q }
@@ -2269,12 +2342,14 @@ TEST 11: pgfmanual-en-library-chains-11
 ....................\pdfliteral origin{0 G }
 ....................\pdfliteral origin{0 g }
 ....................\hbox(6.94+0.22)x26.70999, direction TLT
+.....................\begindir TLT
 .....................\TU/lmr/m/n/10 W
 .....................\kern-0.83 (font)
 .....................\TU/lmr/m/n/10 o
 .....................\TU/lmr/m/n/10 r
 .....................\TU/lmr/m/n/10 l
 .....................\TU/lmr/m/n/10 d
+.....................\enddir TLT
 ....................\glue(\spaceskip) 0.0
 ..................\pdfliteral origin{Q }
 ..................\glue(\spaceskip) 0.0
@@ -2297,11 +2372,11 @@ TEST 11: pgfmanual-en-library-chains-11
 ..............\hbox(0.0+0.0)x0.0, direction TLT
 ...............\hbox(0.0+0.0)x0.0, direction TLT
 ................\pdfliteral origin{q }
-................\pdfliteral origin{16.65674 1.26526 m }
-................\pdfliteral origin{16.65674 10.46463 9.19936 17.922 0.0 17.922 c }
-................\pdfliteral origin{-9.19936 17.922 -16.65674 10.46463 -16.65674 1.26526 c }
-................\pdfliteral origin{-16.65674 -7.9341 -9.19936 -15.39148 0.0 -15.39148 c }
-................\pdfliteral origin{9.19936 -15.39148 16.65674 -7.9341 16.65674 1.26526 c }
+................\pdfliteral origin{16.65654 1.26526 m }
+................\pdfliteral origin{16.65654 10.46451 9.19926 17.92178 0.0 17.92178 c }
+................\pdfliteral origin{-9.19926 17.92178 -16.65654 10.46451 -16.65654 1.26526 c }
+................\pdfliteral origin{-16.65654 -7.93402 -9.19926 -15.3913 0.0 -15.3913 c }
+................\pdfliteral origin{9.19926 -15.3913 16.65654 -7.93402 16.65654 1.26526 c }
 ................\pdfliteral origin{h }
 ................\pdfliteral origin{0.0 1.26526 m }
 ................\pdfliteral origin{S }
@@ -2317,12 +2392,14 @@ TEST 11: pgfmanual-en-library-chains-11
 ....................\pdfliteral origin{0 G }
 ....................\pdfliteral origin{0 g }
 ....................\hbox(4.48+1.94)x24.16, direction TLT
+.....................\begindir TLT
 .....................\TU/lmr/m/n/10 p
 .....................\kern0.28 (font)
 .....................\TU/lmr/m/n/10 e
 .....................\TU/lmr/m/n/10 a
 .....................\TU/lmr/m/n/10 c
 .....................\TU/lmr/m/n/10 e
+.....................\enddir TLT
 ....................\glue(\spaceskip) 0.0
 ..................\pdfliteral origin{Q }
 ..................\glue(\spaceskip) 0.0
@@ -2353,7 +2430,7 @@ TEST 11: pgfmanual-en-library-chains-11
 ................\glue(\spaceskip) 0.0
 ................\glue(\spaceskip) 0.0
 ................\glue(\spaceskip) 0.0
-................\pdfliteral origin{-8.44142 -3.43013 16.88286 13.66487 re }
+................\pdfliteral origin{-8.44133 -3.43011 16.88264 13.6647 re }
 ................\pdfliteral origin{S }
 ................\glue(\spaceskip) 0.0
 ................\pdfliteral origin{q }
@@ -2367,9 +2444,11 @@ TEST 11: pgfmanual-en-library-chains-11
 ....................\pdfliteral origin{0 G }
 ....................\pdfliteral origin{0 g }
 ....................\hbox(6.94+0.11)x10.28, direction TLT
+.....................\begindir TLT
 .....................\TU/lmr/m/n/10 b
 .....................\kern0.28 (font)
 .....................\TU/lmr/m/n/10 e
+.....................\enddir TLT
 ....................\glue(\spaceskip) 0.0
 ..................\pdfliteral origin{Q }
 ..................\glue(\spaceskip) 0.0
@@ -2392,9 +2471,9 @@ TEST 11: pgfmanual-en-library-chains-11
 ..............\hbox(0.0+0.0)x0.0, direction TLT
 ...............\hbox(0.0+0.0)x0.0, direction TLT
 ................\pdfliteral origin{q }
-................\pdfliteral origin{32.68845 3.40228 m }
-................\pdfliteral origin{-16.19206 23.64806 l }
-................\pdfliteral origin{-16.19206 -16.84346 l }
+................\pdfliteral origin{32.68803 3.40225 m }
+................\pdfliteral origin{-16.19186 23.64777 l }
+................\pdfliteral origin{-16.19186 -16.84326 l }
 ................\pdfliteral origin{h }
 ................\pdfliteral origin{S }
 ................\glue(\spaceskip) 0.0
@@ -2409,12 +2488,14 @@ TEST 11: pgfmanual-en-library-chains-11
 ....................\pdfliteral origin{0 G }
 ....................\pdfliteral origin{0 g }
 ....................\hbox(6.94+0.11)x25.84, direction TLT
+.....................\begindir TLT
 .....................\TU/lmr/m/n/10 w
 .....................\kern-0.28 (font)
 .....................\TU/lmr/m/n/10 o
 .....................\TU/lmr/m/n/10 u
 .....................\TU/lmr/m/n/10 l
 .....................\TU/lmr/m/n/10 d
+.....................\enddir TLT
 ....................\glue(\spaceskip) 0.0
 ..................\pdfliteral origin{Q }
 ..................\glue(\spaceskip) 0.0
@@ -2442,13 +2523,13 @@ TEST 11: pgfmanual-en-library-chains-11
 ...............\hbox(0.0+0.0)x0.0, direction TLT
 ................\pdfliteral origin{q }
 ................\glue(\spaceskip) 0.0
-................\pdfliteral origin{20.37056 2.03738 m }
-................\pdfliteral origin{20.37056 7.82524 11.25047 12.5171 0.0 12.5171 c }
-................\pdfliteral origin{-11.25047 12.5171 -20.37056 7.82524 -20.37056 2.03738 c }
-................\pdfliteral origin{-20.37056 -3.75047 -11.25047 -8.44234 0.0 -8.44234 c }
-................\pdfliteral origin{11.25047 -8.44234 20.37056 -3.75047 20.37056 2.03738 c }
+................\pdfliteral origin{20.3703 2.03737 m }
+................\pdfliteral origin{20.3703 7.82515 11.25035 12.51695 0.0 12.51695 c }
+................\pdfliteral origin{-11.25035 12.51695 -20.3703 7.82515 -20.3703 2.03737 c }
+................\pdfliteral origin{-20.3703 -3.75044 -11.25035 -8.44225 0.0 -8.44225 c }
+................\pdfliteral origin{11.25035 -8.44225 20.3703 -3.75044 20.3703 2.03737 c }
 ................\pdfliteral origin{h }
-................\pdfliteral origin{0.0 2.03738 m }
+................\pdfliteral origin{0.0 2.03737 m }
 ................\pdfliteral origin{S }
 ................\glue(\spaceskip) 0.0
 ................\pdfliteral origin{q }
@@ -2462,11 +2543,13 @@ TEST 11: pgfmanual-en-library-chains-11
 ....................\pdfliteral origin{0 G }
 ....................\pdfliteral origin{0 g }
 ....................\hbox(6.15+2.06)x22.25, direction TLT
+.....................\begindir TLT
 .....................\TU/lmr/m/n/10 g
 .....................\TU/lmr/m/n/10 r
 .....................\TU/lmr/m/n/10 e
 .....................\TU/lmr/m/n/10 a
 .....................\TU/lmr/m/n/10 t
+.....................\enddir TLT
 ....................\glue(\spaceskip) 0.0
 ..................\pdfliteral origin{Q }
 ..................\glue(\spaceskip) 0.0
@@ -2493,7 +2576,7 @@ TEST 11: pgfmanual-en-library-chains-11
 ................\glue(\spaceskip) 0.0
 ................\glue(\spaceskip) 0.0
 ................\glue(\spaceskip) 0.0
-................\pdfliteral origin{-4.70538 -3.32056 9.41078 13.77448 re }
+................\pdfliteral origin{-4.70534 -3.32053 9.41068 13.7743 re }
 ................\pdfliteral origin{S }
 ................\glue(\spaceskip) 0.0
 ................\pdfliteral origin{q }
@@ -2507,7 +2590,9 @@ TEST 11: pgfmanual-en-library-chains-11
 ....................\pdfliteral origin{0 G }
 ....................\pdfliteral origin{0 g }
 ....................\hbox(7.16+0.0)x2.78, direction TLT
+.....................\begindir TLT
 .....................\TU/lmr/m/n/10 !
+.....................\enddir TLT
 ....................\glue(\spaceskip) 0.0
 ..................\pdfliteral origin{Q }
 ..................\glue(\spaceskip) 0.0
@@ -2544,12 +2629,12 @@ TEST 11: pgfmanual-en-library-chains-11
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
-......\pdfliteral origin{-15.13344 46.70084 m }
-......\pdfliteral origin{2.34146 45.99538 l }
+......\pdfliteral origin{-15.13326 46.70024 m }
+......\pdfliteral origin{2.34145 45.9948 l }
 ......\pdfliteral origin{S }
 ......\pdfliteral origin{q }
-......\pdfliteral origin{0.99913 -0.04031 0.04031 0.99913 2.34145 45.99538 cm }
-......\pdfliteral origin{q 0.31879 w [ ] 0.0 d 1 J 1 j -1.19551 1.59401 m -1.09587 0.99626 0.0 0.09961 0.29886 0.0 c 0.0 -0.09961 -1.09587 -0.99626 -1.19551 -1.59401 c S Q  }
+......\pdfliteral origin{0.99913 -0.04031 0.04031 0.99913 2.34143 45.9948 cm }
+......\pdfliteral origin{q 0.3188 w [ ] 0.0 d 1 J 1 j -1.19551 1.59401 m -1.09587 0.99626 0.0 0.09962 0.29887 0.0 c 0.0 -0.09962 -1.09587 -0.99626 -1.19551 -1.59401 c S Q  }
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
@@ -2561,52 +2646,12 @@ TEST 11: pgfmanual-en-library-chains-11
 .....\hbox(0.0+0.0)x0.0, direction TLT
 ......\pdfliteral origin{q }
 ......\glue(\spaceskip) 0.0
-......\pdfliteral origin{19.6409 28.44165 m }
-......\pdfliteral origin{19.64104 8.03662 l }
+......\pdfliteral origin{19.64067 28.4413 m }
+......\pdfliteral origin{19.64081 8.03653 l }
 ......\pdfliteral origin{S }
 ......\pdfliteral origin{q }
-......\pdfliteral origin{0.0 -1.0 1.0 0.0 19.64104 8.03662 cm }
-......\pdfliteral origin{q 0.31879 w [ ] 0.0 d 1 J 1 j -1.19551 1.59401 m -1.09587 0.99626 0.0 0.09961 0.29886 0.0 c 0.0 -0.09961 -1.09587 -0.99626 -1.19551 -1.59401 c S Q  }
-......\pdfliteral origin{Q }
-......\glue(\spaceskip) 0.0
-......\glue(\spaceskip) 0.0
-......\pdfliteral origin{Q }
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\hbox(0.0+0.0)x0.0, direction TLT
-.....\hbox(0.0+0.0)x0.0, direction TLT
-......\pdfliteral origin{q }
-......\glue(\spaceskip) 0.0
-......\glue(\spaceskip) 0.0
-......\glue(\spaceskip) 0.0
-......\pdfliteral origin{3.24857 -6.17627 m }
-......\pdfliteral origin{-22.85957 -6.17702 l }
-......\pdfliteral origin{S }
-......\pdfliteral origin{q }
-......\pdfliteral origin{-1.0 0.0 0.0 -1.0 -22.85957 -6.17702 cm }
-......\pdfliteral origin{q 0.31879 w [ ] 0.0 d 1 J 1 j -1.19551 1.59401 m -1.09587 0.99626 0.0 0.09961 0.29886 0.0 c 0.0 -0.09961 -1.09587 -0.99626 -1.19551 -1.59401 c S Q  }
-......\pdfliteral origin{Q }
-......\glue(\spaceskip) 0.0
-......\glue(\spaceskip) 0.0
-......\pdfliteral origin{Q }
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\glue(\spaceskip) 0.0
-....\hbox(0.0+0.0)x0.0, direction TLT
-.....\hbox(0.0+0.0)x0.0, direction TLT
-......\pdfliteral origin{q }
-......\glue(\spaceskip) 0.0
-......\glue(\spaceskip) 0.0
-......\glue(\spaceskip) 0.0
-......\pdfliteral origin{-31.95853 -13.20871 m }
-......\pdfliteral origin{-31.95853 -40.33714 l }
-......\pdfliteral origin{S }
-......\pdfliteral origin{q }
-......\pdfliteral origin{0.0 -1.0 1.0 0.0 -31.95853 -40.33714 cm }
-......\pdfliteral origin{q 0.31879 w [ ] 0.0 d 1 J 1 j -1.19551 1.59401 m -1.09587 0.99626 0.0 0.09961 0.29886 0.0 c 0.0 -0.09961 -1.09587 -0.99626 -1.19551 -1.59401 c S Q  }
+......\pdfliteral origin{0.0 -1.0 1.0 0.0 19.64081 8.03653 cm }
+......\pdfliteral origin{q 0.3188 w [ ] 0.0 d 1 J 1 j -1.19551 1.59401 m -1.09587 0.99626 0.0 0.09962 0.29887 0.0 c 0.0 -0.09962 -1.09587 -0.99626 -1.19551 -1.59401 c S Q  }
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
@@ -2620,12 +2665,52 @@ TEST 11: pgfmanual-en-library-chains-11
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
-......\pdfliteral origin{-11.42294 -50.86597 m }
-......\pdfliteral origin{14.27797 -50.10394 l }
+......\pdfliteral origin{3.24854 -6.17621 m }
+......\pdfliteral origin{-22.8593 -6.17694 l }
 ......\pdfliteral origin{S }
 ......\pdfliteral origin{q }
-......\pdfliteral origin{0.99951 0.02963 -0.02963 0.99951 14.27797 -50.10394 cm }
-......\pdfliteral origin{q 0.31879 w [ ] 0.0 d 1 J 1 j -1.19551 1.59401 m -1.09587 0.99626 0.0 0.09961 0.29886 0.0 c 0.0 -0.09961 -1.09587 -0.99626 -1.19551 -1.59401 c S Q  }
+......\pdfliteral origin{-1.0 0.0 0.0 -1.0 -22.8593 -6.17694 cm }
+......\pdfliteral origin{q 0.3188 w [ ] 0.0 d 1 J 1 j -1.19551 1.59401 m -1.09587 0.99626 0.0 0.09962 0.29887 0.0 c 0.0 -0.09962 -1.09587 -0.99626 -1.19551 -1.59401 c S Q  }
+......\pdfliteral origin{Q }
+......\glue(\spaceskip) 0.0
+......\glue(\spaceskip) 0.0
+......\pdfliteral origin{Q }
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\hbox(0.0+0.0)x0.0, direction TLT
+.....\hbox(0.0+0.0)x0.0, direction TLT
+......\pdfliteral origin{q }
+......\glue(\spaceskip) 0.0
+......\glue(\spaceskip) 0.0
+......\glue(\spaceskip) 0.0
+......\pdfliteral origin{-31.95813 -13.20854 m }
+......\pdfliteral origin{-31.95813 -40.33664 l }
+......\pdfliteral origin{S }
+......\pdfliteral origin{q }
+......\pdfliteral origin{0.0 -1.0 1.0 0.0 -31.95813 -40.33664 cm }
+......\pdfliteral origin{q 0.3188 w [ ] 0.0 d 1 J 1 j -1.19551 1.59401 m -1.09587 0.99626 0.0 0.09962 0.29887 0.0 c 0.0 -0.09962 -1.09587 -0.99626 -1.19551 -1.59401 c S Q  }
+......\pdfliteral origin{Q }
+......\glue(\spaceskip) 0.0
+......\glue(\spaceskip) 0.0
+......\pdfliteral origin{Q }
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\hbox(0.0+0.0)x0.0, direction TLT
+.....\hbox(0.0+0.0)x0.0, direction TLT
+......\pdfliteral origin{q }
+......\glue(\spaceskip) 0.0
+......\glue(\spaceskip) 0.0
+......\glue(\spaceskip) 0.0
+......\pdfliteral origin{-11.4228 -50.86533 m }
+......\pdfliteral origin{14.2778 -50.10332 l }
+......\pdfliteral origin{S }
+......\pdfliteral origin{q }
+......\pdfliteral origin{0.99951 0.02963 -0.02963 0.99951 14.2778 -50.10332 cm }
+......\pdfliteral origin{q 0.3188 w [ ] 0.0 d 1 J 1 j -1.19551 1.59401 m -1.09587 0.99626 0.0 0.09962 0.29887 0.0 c 0.0 -0.09962 -1.09587 -0.99626 -1.19551 -1.59401 c S Q  }
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
@@ -2639,25 +2724,22 @@ TEST 11: pgfmanual-en-library-chains-11
 ...\pdfliteral origin{n }
 ...\pdfliteral origin{Q }
 ...\glue 0.0 plus 1.0fil minus 1.0fil
-.\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
 ! OK.
-\ENDBOXTEST ...th =\maxdimen \showbox \PGFTESTBOX 
-                                                  \endgroup \ENDTEST 
+<argument> \PGFTESTBOX 
 l. ...\ENDBOXTEST
 ============================================================
 ============================================================
 TEST 12: pgfmanual-en-library-chains-12
 ============================================================
 > \box...=
-\hbox(42.67827+0.0)x99.93057, direction TLT
-.\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+\hbox(42.67827+0.0)x93.27057, direction TLT
 .\hbox(42.67827+0.0)x93.27057, direction TLT
 ..\glue 3.53297
 ..\hbox(0.0+0.0)x0.0, shifted -35.56529, direction TLT
 ...\pdfliteral origin{q }
 ...\pdfliteral origin{0 G }
 ...\pdfliteral origin{0 g }
-...\pdfliteral origin{0.3985 w }
+...\pdfliteral origin{0.39851 w }
 ...\hbox(0.0+0.0)x0.0, direction TLT
 ....\pdfliteral origin{q }
 ....\glue(\spaceskip) 0.0
@@ -2670,7 +2752,7 @@ TEST 12: pgfmanual-en-library-chains-12
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
-......\pdfliteral origin{-3.32056 -3.32056 6.64113 6.64113 re }
+......\pdfliteral origin{-3.32053 -3.32053 6.64105 6.64105 re }
 ......\pdfliteral origin{S }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{q }
@@ -2684,6 +2766,8 @@ TEST 12: pgfmanual-en-library-chains-12
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2703,7 +2787,7 @@ TEST 12: pgfmanual-en-library-chains-12
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
-......\pdfliteral origin{17.89246 -6.83243 29.61526 13.66487 re }
+......\pdfliteral origin{17.89224 -6.83235 29.6149 13.6647 re }
 ......\pdfliteral origin{S }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{q }
@@ -2717,11 +2801,13 @@ TEST 12: pgfmanual-en-library-chains-12
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.94+0.11)x23.06, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 H
 ...........\TU/lmr/m/n/10 a
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 o
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2738,12 +2824,12 @@ TEST 12: pgfmanual-en-library-chains-12
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{q }
 ......\pdfcolorstack 0 push {1 0 0 rg 1 0 0 RG}
-......\pdfliteral origin{3.5198 0.0 m }
-......\pdfliteral origin{17.23492 0.0 l }
+......\pdfliteral origin{3.51978 0.0 m }
+......\pdfliteral origin{17.23473 0.0 l }
 ......\pdfliteral origin{S }
 ......\pdfliteral origin{q }
-......\pdfliteral origin{1.0 0.0 0.0 1.0 17.23492 0.0 cm }
-......\pdfliteral origin{q 0.31879 w [ ] 0.0 d 1 J 1 j -1.19551 1.59401 m -1.09587 0.99626 0.0 0.09961 0.29886 0.0 c 0.0 -0.09961 -1.09587 -0.99626 -1.19551 -1.59401 c S Q  }
+......\pdfliteral origin{1.0 0.0 0.0 1.0 17.23473 0.0 cm }
+......\pdfliteral origin{q 0.3188 w [ ] 0.0 d 1 J 1 j -1.19551 1.59401 m -1.09587 0.99626 0.0 0.09962 0.29887 0.0 c 0.0 -0.09962 -1.09587 -0.99626 -1.19551 -1.59401 c S Q  }
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\pdfcolorstack 0 pop
@@ -2762,7 +2848,7 @@ TEST 12: pgfmanual-en-library-chains-12
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
-......\pdfliteral origin{62.07964 -6.88724 27.12457 13.77448 re }
+......\pdfliteral origin{62.07886 -6.88716 27.12424 13.7743 re }
 ......\pdfliteral origin{S }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{q }
@@ -2776,11 +2862,13 @@ TEST 12: pgfmanual-en-library-chains-12
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.94+0.22)x20.56, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 W
 ...........\kern-0.83 (font)
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 t
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2797,12 +2885,12 @@ TEST 12: pgfmanual-en-library-chains-12
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{q }
 ......\pdfcolorstack 0 push {1 0 0 rg 1 0 0 RG}
-......\pdfliteral origin{47.70699 0.0 m }
-......\pdfliteral origin{61.4221 0.0 l }
+......\pdfliteral origin{47.70639 0.0 m }
+......\pdfliteral origin{61.42134 0.0 l }
 ......\pdfliteral origin{S }
 ......\pdfliteral origin{q }
-......\pdfliteral origin{1.0 0.0 0.0 1.0 61.4221 0.0 cm }
-......\pdfliteral origin{q 0.31879 w [ ] 0.0 d 1 J 1 j -1.19551 1.59401 m -1.09587 0.99626 0.0 0.09961 0.29886 0.0 c 0.0 -0.09961 -1.09587 -0.99626 -1.19551 -1.59401 c S Q  }
+......\pdfliteral origin{1.0 0.0 0.0 1.0 61.42134 0.0 cm }
+......\pdfliteral origin{q 0.3188 w [ ] 0.0 d 1 J 1 j -1.19551 1.59401 m -1.09587 0.99626 0.0 0.09962 0.29887 0.0 c 0.0 -0.09962 -1.09587 -0.99626 -1.19551 -1.59401 c S Q  }
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\pdfcolorstack 0 pop
@@ -2824,7 +2912,7 @@ TEST 12: pgfmanual-en-library-chains-12
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
-......\pdfliteral origin{65.67621 -35.23361 19.93146 13.77448 re }
+......\pdfliteral origin{65.67537 -35.23318 19.93121 13.7743 re }
 ......\pdfliteral origin{S }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{q }
@@ -2838,10 +2926,12 @@ TEST 12: pgfmanual-en-library-chains-12
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.05+0.11)x13.34, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 f
 ...........\TU/lmr/m/n/10 o
 ...........\kern0.28 (font)
 ...........\TU/lmr/m/n/10 o
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2858,12 +2948,12 @@ TEST 12: pgfmanual-en-library-chains-12
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{q }
 ......\pdfcolorstack 0 push {1 0 0 rg 1 0 0 RG}
-......\pdfliteral origin{75.64194 -7.08649 m }
-......\pdfliteral origin{75.64194 -20.8016 l }
+......\pdfliteral origin{75.64098 -7.08641 m }
+......\pdfliteral origin{75.64098 -20.80135 l }
 ......\pdfliteral origin{S }
 ......\pdfliteral origin{q }
-......\pdfliteral origin{0.0 -1.0 1.0 0.0 75.64194 -20.8016 cm }
-......\pdfliteral origin{q 0.31879 w [ ] 0.0 d 1 J 1 j -1.19551 1.59401 m -1.09587 0.99626 0.0 0.09961 0.29886 0.0 c 0.0 -0.09961 -1.09587 -0.99626 -1.19551 -1.59401 c S Q  }
+......\pdfliteral origin{0.0 -1.0 1.0 0.0 75.64098 -20.80135 cm }
+......\pdfliteral origin{q 0.3188 w [ ] 0.0 d 1 J 1 j -1.19551 1.59401 m -1.09587 0.99626 0.0 0.09962 0.29887 0.0 c 0.0 -0.09962 -1.09587 -0.99626 -1.19551 -1.59401 c S Q  }
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\pdfcolorstack 0 pop
@@ -2880,12 +2970,12 @@ TEST 12: pgfmanual-en-library-chains-12
 ......\pdfliteral origin{q }
 ......\pdfcolorstack 0 push {1 0 0 rg 1 0 0 RG}
 ......\pdfcolorstack 0 push {0 0 1 rg 0 0 1 RG}
-......\pdfliteral origin{3.94891 -1.47958 m }
-......\pdfliteral origin{65.47694 -24.53793 l }
+......\pdfliteral origin{3.94888 -1.47958 m }
+......\pdfliteral origin{65.47612 -24.53763 l }
 ......\pdfliteral origin{S }
 ......\pdfliteral origin{q }
-......\pdfliteral origin{-0.93636 0.35089 -0.35089 -0.93636 3.94891 -1.4796 cm }
-......\pdfliteral origin{q 0.31879 w [ ] 0.0 d 1 J 1 j -1.19551 1.59401 m -1.09587 0.99626 0.0 0.09961 0.29886 0.0 c 0.0 -0.09961 -1.09587 -0.99626 -1.19551 -1.59401 c S Q  }
+......\pdfliteral origin{-0.93636 0.35089 -0.35089 -0.93636 3.94888 -1.4796 cm }
+......\pdfliteral origin{q 0.3188 w [ ] 0.0 d 1 J 1 j -1.19551 1.59401 m -1.09587 0.99626 0.0 0.09962 0.29887 0.0 c 0.0 -0.09962 -1.09587 -0.99626 -1.19551 -1.59401 c S Q  }
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\pdfcolorstack 0 pop
@@ -2900,10 +2990,8 @@ TEST 12: pgfmanual-en-library-chains-12
 ...\pdfliteral origin{n }
 ...\pdfliteral origin{Q }
 ...\glue 0.0 plus 1.0fil minus 1.0fil
-.\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
 ! OK.
-\ENDBOXTEST ...th =\maxdimen \showbox \PGFTESTBOX 
-                                                  \endgroup \ENDTEST 
+<argument> \PGFTESTBOX 
 l. ...\ENDBOXTEST
 ============================================================
 ============================================================
@@ -2912,15 +3000,14 @@ TEST 13: pgfmanual-en-library-chains-13
 LaTeX Font Info:    Trying to load font information for U+msa on input line ....
 LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 > \box...=
-\hbox(129.90765+0.0)x106.16333, direction TLT
-.\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+\hbox(129.90765+0.0)x99.50333, direction TLT
 .\hbox(129.90765+0.0)x99.50333, direction TLT
 ..\glue 7.08298
 ..\hbox(0.0+0.0)x0.0, shifted -65.44583, direction TLT
 ...\pdfliteral origin{q }
 ...\pdfliteral origin{0 G }
 ...\pdfliteral origin{0 g }
-...\pdfliteral origin{0.3985 w }
+...\pdfliteral origin{0.39851 w }
 ...\hbox(0.0+0.0)x0.0, direction TLT
 ....\pdfliteral origin{q }
 ....\pdfliteral origin{q }
@@ -2946,7 +3033,9 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.16+0.0)x7.5, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 A
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2978,7 +3067,9 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.83+0.0)x7.08, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 B
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2993,12 +3084,12 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
-......\pdfliteral origin{7.25584 0.0 m }
-......\pdfliteral origin{35.14438 0.0 l }
+......\pdfliteral origin{7.25577 0.0 m }
+......\pdfliteral origin{35.14395 0.0 l }
 ......\pdfliteral origin{S }
 ......\pdfliteral origin{q }
-......\pdfliteral origin{1.0 0.0 0.0 1.0 35.14438 0.0 cm }
-......\pdfliteral origin{q 0.31879 w [ ] 0.0 d 1 J 1 j -1.19551 1.59401 m -1.09587 0.99626 0.0 0.09961 0.29886 0.0 c 0.0 -0.09961 -1.09587 -0.99626 -1.19551 -1.59401 c S Q  }
+......\pdfliteral origin{1.0 0.0 0.0 1.0 35.14395 0.0 cm }
+......\pdfliteral origin{q 0.3188 w [ ] 0.0 d 1 J 1 j -1.19551 1.59401 m -1.09587 0.99626 0.0 0.09962 0.29887 0.0 c 0.0 -0.09962 -1.09587 -0.99626 -1.19551 -1.59401 c S Q  }
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
@@ -3033,7 +3124,9 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.66+0.0)x5.0, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 1
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3048,12 +3141,12 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
-......\pdfliteral origin{42.64929 -6.92209 m }
-......\pdfliteral origin{42.64929 -12.13316 l }
+......\pdfliteral origin{42.64876 -6.92201 m }
+......\pdfliteral origin{42.64876 -12.13303 l }
 ......\pdfliteral origin{S }
 ......\pdfliteral origin{q }
-......\pdfliteral origin{0.0 -1.0 1.0 0.0 42.64929 -12.13316 cm }
-......\pdfliteral origin{q 0.31879 w [ ] 0.0 d 1 J 1 j -1.19551 1.59401 m -1.09587 0.99626 0.0 0.09961 0.29886 0.0 c 0.0 -0.09961 -1.09587 -0.99626 -1.19551 -1.59401 c S Q  }
+......\pdfliteral origin{0.0 -1.0 1.0 0.0 42.64876 -12.13303 cm }
+......\pdfliteral origin{q 0.3188 w [ ] 0.0 d 1 J 1 j -1.19551 1.59401 m -1.09587 0.99626 0.0 0.09962 0.29887 0.0 c 0.0 -0.09962 -1.09587 -0.99626 -1.19551 -1.59401 c S Q  }
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
@@ -3083,7 +3176,9 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.66+0.0)x5.0, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 2
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3098,12 +3193,12 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
-......\pdfliteral origin{42.64929 -26.2663 m }
-......\pdfliteral origin{42.64929 -31.47736 l }
+......\pdfliteral origin{42.64876 -26.26596 m }
+......\pdfliteral origin{42.64876 -31.47697 l }
 ......\pdfliteral origin{S }
 ......\pdfliteral origin{q }
-......\pdfliteral origin{0.0 -1.0 1.0 0.0 42.64929 -31.47736 cm }
-......\pdfliteral origin{q 0.31879 w [ ] 0.0 d 1 J 1 j -1.19551 1.59401 m -1.09587 0.99626 0.0 0.09961 0.29886 0.0 c 0.0 -0.09961 -1.09587 -0.99626 -1.19551 -1.59401 c S Q  }
+......\pdfliteral origin{0.0 -1.0 1.0 0.0 42.64876 -31.47697 cm }
+......\pdfliteral origin{q 0.3188 w [ ] 0.0 d 1 J 1 j -1.19551 1.59401 m -1.09587 0.99626 0.0 0.09962 0.29887 0.0 c 0.0 -0.09962 -1.09587 -0.99626 -1.19551 -1.59401 c S Q  }
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
@@ -3133,7 +3228,9 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.66+0.22)x5.0, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 3
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3148,12 +3245,12 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
-......\pdfliteral origin{42.64929 -45.61049 m }
-......\pdfliteral origin{42.64929 -50.82156 l }
+......\pdfliteral origin{42.64876 -45.60991 m }
+......\pdfliteral origin{42.64876 -50.82092 l }
 ......\pdfliteral origin{S }
 ......\pdfliteral origin{q }
-......\pdfliteral origin{0.0 -1.0 1.0 0.0 42.64929 -50.82156 cm }
-......\pdfliteral origin{q 0.31879 w [ ] 0.0 d 1 J 1 j -1.19551 1.59401 m -1.09587 0.99626 0.0 0.09961 0.29886 0.0 c 0.0 -0.09961 -1.09587 -0.99626 -1.19551 -1.59401 c S Q  }
+......\pdfliteral origin{0.0 -1.0 1.0 0.0 42.64876 -50.82092 cm }
+......\pdfliteral origin{q 0.3188 w [ ] 0.0 d 1 J 1 j -1.19551 1.59401 m -1.09587 0.99626 0.0 0.09962 0.29887 0.0 c 0.0 -0.09962 -1.09587 -0.99626 -1.19551 -1.59401 c S Q  }
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
@@ -3190,10 +3287,12 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.30554+0.0)x6.43404, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OML/cmm/m/it/10 ^^K
 ...........\kern0.03702 (italic)
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3208,12 +3307,12 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
-......\pdfliteral origin{42.64929 6.92209 m }
-......\pdfliteral origin{42.64929 12.13316 l }
+......\pdfliteral origin{42.64876 6.92201 m }
+......\pdfliteral origin{42.64876 12.13303 l }
 ......\pdfliteral origin{S }
 ......\pdfliteral origin{q }
-......\pdfliteral origin{0.0 1.0 -1.0 0.0 42.64929 12.13316 cm }
-......\pdfliteral origin{q 0.31879 w [ ] 0.0 d 1 J 1 j -1.19551 1.59401 m -1.09587 0.99626 0.0 0.09961 0.29886 0.0 c 0.0 -0.09961 -1.09587 -0.99626 -1.19551 -1.59401 c S Q  }
+......\pdfliteral origin{0.0 1.0 -1.0 0.0 42.64876 12.13303 cm }
+......\pdfliteral origin{q 0.3188 w [ ] 0.0 d 1 J 1 j -1.19551 1.59401 m -1.09587 0.99626 0.0 0.09962 0.29887 0.0 c 0.0 -0.09962 -1.09587 -0.99626 -1.19551 -1.59401 c S Q  }
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
@@ -3243,10 +3342,12 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.94444+1.94444)x6.18402, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OML/cmm/m/it/10 ^^L
 ...........\kern0.52777 (italic)
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3261,12 +3362,12 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
-......\pdfliteral origin{42.64929 23.9206 m }
-......\pdfliteral origin{42.64929 29.13167 l }
+......\pdfliteral origin{42.64876 23.9203 m }
+......\pdfliteral origin{42.64876 29.1313 l }
 ......\pdfliteral origin{S }
 ......\pdfliteral origin{q }
-......\pdfliteral origin{0.0 1.0 -1.0 0.0 42.64929 29.13167 cm }
-......\pdfliteral origin{q 0.31879 w [ ] 0.0 d 1 J 1 j -1.19551 1.59401 m -1.09587 0.99626 0.0 0.09961 0.29886 0.0 c 0.0 -0.09961 -1.09587 -0.99626 -1.19551 -1.59401 c S Q  }
+......\pdfliteral origin{0.0 1.0 -1.0 0.0 42.64876 29.1313 cm }
+......\pdfliteral origin{q 0.3188 w [ ] 0.0 d 1 J 1 j -1.19551 1.59401 m -1.09587 0.99626 0.0 0.09962 0.29887 0.0 c 0.0 -0.09962 -1.09587 -0.99626 -1.19551 -1.59401 c S Q  }
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
@@ -3296,10 +3397,12 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.30554+1.94444)x5.73285, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OML/cmm/m/it/10 
 ...........\kern0.55554 (italic)
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3314,12 +3417,12 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
-......\pdfliteral origin{42.64929 45.48538 m }
-......\pdfliteral origin{42.64929 50.69644 l }
+......\pdfliteral origin{42.64876 45.4848 m }
+......\pdfliteral origin{42.64876 50.6958 l }
 ......\pdfliteral origin{S }
 ......\pdfliteral origin{q }
-......\pdfliteral origin{0.0 1.0 -1.0 0.0 42.64929 50.69644 cm }
-......\pdfliteral origin{q 0.31879 w [ ] 0.0 d 1 J 1 j -1.19551 1.59401 m -1.09587 0.99626 0.0 0.09961 0.29886 0.0 c 0.0 -0.09961 -1.09587 -0.99626 -1.19551 -1.59401 c S Q  }
+......\pdfliteral origin{0.0 1.0 -1.0 0.0 42.64876 50.6958 cm }
+......\pdfliteral origin{q 0.3188 w [ ] 0.0 d 1 J 1 j -1.19551 1.59401 m -1.09587 0.99626 0.0 0.09962 0.29887 0.0 c 0.0 -0.09962 -1.09587 -0.99626 -1.19551 -1.59401 c S Q  }
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
@@ -3352,7 +3455,9 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.05+0.22)x7.22, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 C
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3367,12 +3472,12 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
-......\pdfliteral origin{47.7209 -51.27983 m }
-......\pdfliteral origin{79.6769 -7.51138 l }
+......\pdfliteral origin{47.7203 -51.27919 m }
+......\pdfliteral origin{79.67587 -7.5113 l }
 ......\pdfliteral origin{S }
 ......\pdfliteral origin{q }
-......\pdfliteral origin{0.58965 0.80762 -0.80762 0.58965 79.67688 -7.51138 cm }
-......\pdfliteral origin{q 0.31879 w [ ] 0.0 d 1 J 1 j -1.19551 1.59401 m -1.09587 0.99626 0.0 0.09961 0.29886 0.0 c 0.0 -0.09961 -1.09587 -0.99626 -1.19551 -1.59401 c S Q  }
+......\pdfliteral origin{0.58965 0.80762 -0.80762 0.58965 79.67586 -7.5113 cm }
+......\pdfliteral origin{q 0.3188 w [ ] 0.0 d 1 J 1 j -1.19551 1.59401 m -1.09587 0.99626 0.0 0.09962 0.29887 0.0 c 0.0 -0.09962 -1.09587 -0.99626 -1.19551 -1.59401 c S Q  }
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
@@ -3384,12 +3489,12 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
-......\pdfliteral origin{47.52861 51.15472 m }
-......\pdfliteral origin{79.6384 7.51039 l }
+......\pdfliteral origin{47.52802 51.15408 m }
+......\pdfliteral origin{79.63739 7.51031 l }
 ......\pdfliteral origin{S }
 ......\pdfliteral origin{q }
-......\pdfliteral origin{0.59258 -0.80545 0.80545 0.59258 79.6384 7.51039 cm }
-......\pdfliteral origin{q 0.31879 w [ ] 0.0 d 1 J 1 j -1.19551 1.59401 m -1.09587 0.99626 0.0 0.09961 0.29886 0.0 c 0.0 -0.09961 -1.09587 -0.99626 -1.19551 -1.59401 c S Q  }
+......\pdfliteral origin{0.59258 -0.80545 0.80545 0.59258 79.63739 7.51031 cm }
+......\pdfliteral origin{q 0.3188 w [ ] 0.0 d 1 J 1 j -1.19551 1.59401 m -1.09587 0.99626 0.0 0.09962 0.29887 0.0 c 0.0 -0.09962 -1.09587 -0.99626 -1.19551 -1.59401 c S Q  }
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
@@ -3401,12 +3506,12 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
-......\pdfliteral origin{49.69592 0.0 m }
-......\pdfliteral origin{77.58446 0.0 l }
+......\pdfliteral origin{49.6953 0.0 m }
+......\pdfliteral origin{77.58348 0.0 l }
 ......\pdfliteral origin{S }
 ......\pdfliteral origin{q }
-......\pdfliteral origin{1.0 0.0 0.0 1.0 77.58446 0.0 cm }
-......\pdfliteral origin{q 0.31879 w [ ] 0.0 d 1 J 1 j -1.19551 1.59401 m -1.09587 0.99626 0.0 0.09961 0.29886 0.0 c 0.0 -0.09961 -1.09587 -0.99626 -1.19551 -1.59401 c S Q  }
+......\pdfliteral origin{1.0 0.0 0.0 1.0 77.58348 0.0 cm }
+......\pdfliteral origin{q 0.3188 w [ ] 0.0 d 1 J 1 j -1.19551 1.59401 m -1.09587 0.99626 0.0 0.09962 0.29887 0.0 c 0.0 -0.09962 -1.09587 -0.99626 -1.19551 -1.59401 c S Q  }
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
@@ -3441,9 +3546,11 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.65279+0.0)x5.00002, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OML/cmm/m/it/10 ?
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3458,12 +3565,12 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
-......\pdfliteral origin{85.15912 -7.14128 m }
-......\pdfliteral origin{85.15912 -12.35234 l }
+......\pdfliteral origin{85.15804 -7.14119 m }
+......\pdfliteral origin{85.15804 -12.3522 l }
 ......\pdfliteral origin{S }
 ......\pdfliteral origin{q }
-......\pdfliteral origin{0.0 -1.0 1.0 0.0 85.15912 -12.35234 cm }
-......\pdfliteral origin{q 0.31879 w [ ] 0.0 d 1 J 1 j -1.19551 1.59401 m -1.09587 0.99626 0.0 0.09961 0.29886 0.0 c 0.0 -0.09961 -1.09587 -0.99626 -1.19551 -1.59401 c S Q  }
+......\pdfliteral origin{0.0 -1.0 1.0 0.0 85.15804 -12.3522 cm }
+......\pdfliteral origin{q 0.3188 w [ ] 0.0 d 1 J 1 j -1.19551 1.59401 m -1.09587 0.99626 0.0 0.09962 0.29887 0.0 c 0.0 -0.09962 -1.09587 -0.99626 -1.19551 -1.59401 c S Q  }
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
@@ -3493,9 +3600,11 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.44444+0.0)x5.00002, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OMS/cmsy/m/n/10 ^^N
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3510,12 +3619,12 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
-......\pdfliteral origin{85.15912 -24.48572 m }
-......\pdfliteral origin{85.15912 -29.69678 l }
+......\pdfliteral origin{85.15804 -24.48541 m }
+......\pdfliteral origin{85.15804 -29.69641 l }
 ......\pdfliteral origin{S }
 ......\pdfliteral origin{q }
-......\pdfliteral origin{0.0 -1.0 1.0 0.0 85.15912 -29.69678 cm }
-......\pdfliteral origin{q 0.31879 w [ ] 0.0 d 1 J 1 j -1.19551 1.59401 m -1.09587 0.99626 0.0 0.09961 0.29886 0.0 c 0.0 -0.09961 -1.09587 -0.99626 -1.19551 -1.59401 c S Q  }
+......\pdfliteral origin{0.0 -1.0 1.0 0.0 85.15804 -29.69641 cm }
+......\pdfliteral origin{q 0.3188 w [ ] 0.0 d 1 J 1 j -1.19551 1.59401 m -1.09587 0.99626 0.0 0.09962 0.29887 0.0 c 0.0 -0.09962 -1.09587 -0.99626 -1.19551 -1.59401 c S Q  }
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
@@ -3545,10 +3654,12 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(8.0556+3.05562)x6.66667, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\hbox(0.0+11.11122)x6.66667, shifted -8.0556, direction TLT
 ............\OMX/cmex/m/n/10 R
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3563,12 +3674,12 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
-......\pdfliteral origin{85.15912 -41.62259 m }
-......\pdfliteral origin{85.15912 -46.83365 l }
+......\pdfliteral origin{85.15804 -41.62206 m }
+......\pdfliteral origin{85.15804 -46.83307 l }
 ......\pdfliteral origin{S }
 ......\pdfliteral origin{q }
-......\pdfliteral origin{0.0 -1.0 1.0 0.0 85.15912 -46.83365 cm }
-......\pdfliteral origin{q 0.31879 w [ ] 0.0 d 1 J 1 j -1.19551 1.59401 m -1.09587 0.99626 0.0 0.09961 0.29886 0.0 c 0.0 -0.09961 -1.09587 -0.99626 -1.19551 -1.59401 c S Q  }
+......\pdfliteral origin{0.0 -1.0 1.0 0.0 85.15804 -46.83307 cm }
+......\pdfliteral origin{q 0.3188 w [ ] 0.0 d 1 J 1 j -1.19551 1.59401 m -1.09587 0.99626 0.0 0.09962 0.29887 0.0 c 0.0 -0.09962 -1.09587 -0.99626 -1.19551 -1.59401 c S Q  }
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
@@ -3584,25 +3695,22 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ...\pdfliteral origin{n }
 ...\pdfliteral origin{Q }
 ...\glue 0.0 plus 1.0fil minus 1.0fil
-.\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
 ! OK.
-\ENDBOXTEST ...th =\maxdimen \showbox \PGFTESTBOX 
-                                                  \endgroup \ENDTEST 
+<argument> \PGFTESTBOX 
 l. ...\ENDBOXTEST
 ============================================================
 ============================================================
 TEST 14: pgfmanual-en-library-chains-14
 ============================================================
 > \box...=
-\hbox(91.03632+0.0)x106.16333, direction TLT
-.\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+\hbox(91.03632+0.0)x99.50333, direction TLT
 .\hbox(91.03632+0.0)x99.50333, direction TLT
 ..\glue 7.08298
 ..\hbox(0.0+0.0)x0.0, shifted -45.58095, direction TLT
 ...\pdfliteral origin{q }
 ...\pdfliteral origin{0 G }
 ...\pdfliteral origin{0 g }
-...\pdfliteral origin{0.3985 w }
+...\pdfliteral origin{0.39851 w }
 ...\hbox(0.0+0.0)x0.0, direction TLT
 ....\pdfliteral origin{q }
 ....\pdfliteral origin{q }
@@ -3628,7 +3736,9 @@ TEST 14: pgfmanual-en-library-chains-14
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.16+0.0)x7.5, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 A
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3660,7 +3770,9 @@ TEST 14: pgfmanual-en-library-chains-14
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.83+0.0)x7.08, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 B
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3675,12 +3787,12 @@ TEST 14: pgfmanual-en-library-chains-14
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
-......\pdfliteral origin{7.25584 0.0 m }
-......\pdfliteral origin{35.14438 0.0 l }
+......\pdfliteral origin{7.25577 0.0 m }
+......\pdfliteral origin{35.14395 0.0 l }
 ......\pdfliteral origin{S }
 ......\pdfliteral origin{q }
-......\pdfliteral origin{1.0 0.0 0.0 1.0 35.14438 0.0 cm }
-......\pdfliteral origin{q 0.31879 w [ ] 0.0 d 1 J 1 j -1.19551 1.59401 m -1.09587 0.99626 0.0 0.09961 0.29886 0.0 c 0.0 -0.09961 -1.09587 -0.99626 -1.19551 -1.59401 c S Q  }
+......\pdfliteral origin{1.0 0.0 0.0 1.0 35.14395 0.0 cm }
+......\pdfliteral origin{q 0.3188 w [ ] 0.0 d 1 J 1 j -1.19551 1.59401 m -1.09587 0.99626 0.0 0.09962 0.29887 0.0 c 0.0 -0.09962 -1.09587 -0.99626 -1.19551 -1.59401 c S Q  }
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
@@ -3723,7 +3835,9 @@ TEST 14: pgfmanual-en-library-chains-14
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.05+0.22)x7.22, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 C
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3738,12 +3852,12 @@ TEST 14: pgfmanual-en-library-chains-14
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
-......\pdfliteral origin{49.69592 0.0 m }
-......\pdfliteral origin{77.58446 0.0 l }
+......\pdfliteral origin{49.6953 0.0 m }
+......\pdfliteral origin{77.58348 0.0 l }
 ......\pdfliteral origin{S }
 ......\pdfliteral origin{q }
-......\pdfliteral origin{1.0 0.0 0.0 1.0 77.58446 0.0 cm }
-......\pdfliteral origin{q 0.31879 w [ ] 0.0 d 1 J 1 j -1.19551 1.59401 m -1.09587 0.99626 0.0 0.09961 0.29886 0.0 c 0.0 -0.09961 -1.09587 -0.99626 -1.19551 -1.59401 c S Q  }
+......\pdfliteral origin{1.0 0.0 0.0 1.0 77.58348 0.0 cm }
+......\pdfliteral origin{q 0.3188 w [ ] 0.0 d 1 J 1 j -1.19551 1.59401 m -1.09587 0.99626 0.0 0.09962 0.29887 0.0 c 0.0 -0.09962 -1.09587 -0.99626 -1.19551 -1.59401 c S Q  }
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
@@ -3774,7 +3888,9 @@ TEST 14: pgfmanual-en-library-chains-14
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.66+0.0)x5.0, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 1
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3789,12 +3905,12 @@ TEST 14: pgfmanual-en-library-chains-14
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
-......\pdfliteral origin{42.64929 -6.92209 m }
-......\pdfliteral origin{42.64929 -12.13316 l }
+......\pdfliteral origin{42.64876 -6.92201 m }
+......\pdfliteral origin{42.64876 -12.13303 l }
 ......\pdfliteral origin{S }
 ......\pdfliteral origin{q }
-......\pdfliteral origin{0.0 -1.0 1.0 0.0 42.64929 -12.13316 cm }
-......\pdfliteral origin{q 0.31879 w [ ] 0.0 d 1 J 1 j -1.19551 1.59401 m -1.09587 0.99626 0.0 0.09961 0.29886 0.0 c 0.0 -0.09961 -1.09587 -0.99626 -1.19551 -1.59401 c S Q  }
+......\pdfliteral origin{0.0 -1.0 1.0 0.0 42.64876 -12.13303 cm }
+......\pdfliteral origin{q 0.3188 w [ ] 0.0 d 1 J 1 j -1.19551 1.59401 m -1.09587 0.99626 0.0 0.09962 0.29887 0.0 c 0.0 -0.09962 -1.09587 -0.99626 -1.19551 -1.59401 c S Q  }
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
@@ -3824,7 +3940,9 @@ TEST 14: pgfmanual-en-library-chains-14
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.66+0.0)x5.0, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 2
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3839,12 +3957,12 @@ TEST 14: pgfmanual-en-library-chains-14
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
-......\pdfliteral origin{42.64929 -26.2663 m }
-......\pdfliteral origin{42.64929 -31.47736 l }
+......\pdfliteral origin{42.64876 -26.26596 m }
+......\pdfliteral origin{42.64876 -31.47697 l }
 ......\pdfliteral origin{S }
 ......\pdfliteral origin{q }
-......\pdfliteral origin{0.0 -1.0 1.0 0.0 42.64929 -31.47736 cm }
-......\pdfliteral origin{q 0.31879 w [ ] 0.0 d 1 J 1 j -1.19551 1.59401 m -1.09587 0.99626 0.0 0.09961 0.29886 0.0 c 0.0 -0.09961 -1.09587 -0.99626 -1.19551 -1.59401 c S Q  }
+......\pdfliteral origin{0.0 -1.0 1.0 0.0 42.64876 -31.47697 cm }
+......\pdfliteral origin{q 0.3188 w [ ] 0.0 d 1 J 1 j -1.19551 1.59401 m -1.09587 0.99626 0.0 0.09962 0.29887 0.0 c 0.0 -0.09962 -1.09587 -0.99626 -1.19551 -1.59401 c S Q  }
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
@@ -3877,10 +3995,12 @@ TEST 14: pgfmanual-en-library-chains-14
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.30554+0.0)x6.43404, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OML/cmm/m/it/10 ^^K
 ...........\kern0.03702 (italic)
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3895,12 +4015,12 @@ TEST 14: pgfmanual-en-library-chains-14
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
-......\pdfliteral origin{42.64929 6.92209 m }
-......\pdfliteral origin{42.64929 12.13316 l }
+......\pdfliteral origin{42.64876 6.92201 m }
+......\pdfliteral origin{42.64876 12.13303 l }
 ......\pdfliteral origin{S }
 ......\pdfliteral origin{q }
-......\pdfliteral origin{0.0 1.0 -1.0 0.0 42.64929 12.13316 cm }
-......\pdfliteral origin{q 0.31879 w [ ] 0.0 d 1 J 1 j -1.19551 1.59401 m -1.09587 0.99626 0.0 0.09961 0.29886 0.0 c 0.0 -0.09961 -1.09587 -0.99626 -1.19551 -1.59401 c S Q  }
+......\pdfliteral origin{0.0 1.0 -1.0 0.0 42.64876 12.13303 cm }
+......\pdfliteral origin{q 0.3188 w [ ] 0.0 d 1 J 1 j -1.19551 1.59401 m -1.09587 0.99626 0.0 0.09962 0.29887 0.0 c 0.0 -0.09962 -1.09587 -0.99626 -1.19551 -1.59401 c S Q  }
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
@@ -3930,10 +4050,12 @@ TEST 14: pgfmanual-en-library-chains-14
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.94444+1.94444)x6.18402, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OML/cmm/m/it/10 ^^L
 ...........\kern0.52777 (italic)
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3948,12 +4070,12 @@ TEST 14: pgfmanual-en-library-chains-14
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
-......\pdfliteral origin{42.64929 23.9206 m }
-......\pdfliteral origin{42.64929 29.13167 l }
+......\pdfliteral origin{42.64876 23.9203 m }
+......\pdfliteral origin{42.64876 29.1313 l }
 ......\pdfliteral origin{S }
 ......\pdfliteral origin{q }
-......\pdfliteral origin{0.0 1.0 -1.0 0.0 42.64929 29.13167 cm }
-......\pdfliteral origin{q 0.31879 w [ ] 0.0 d 1 J 1 j -1.19551 1.59401 m -1.09587 0.99626 0.0 0.09961 0.29886 0.0 c 0.0 -0.09961 -1.09587 -0.99626 -1.19551 -1.59401 c S Q  }
+......\pdfliteral origin{0.0 1.0 -1.0 0.0 42.64876 29.1313 cm }
+......\pdfliteral origin{q 0.3188 w [ ] 0.0 d 1 J 1 j -1.19551 1.59401 m -1.09587 0.99626 0.0 0.09962 0.29887 0.0 c 0.0 -0.09962 -1.09587 -0.99626 -1.19551 -1.59401 c S Q  }
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
@@ -3969,9 +4091,7 @@ TEST 14: pgfmanual-en-library-chains-14
 ...\pdfliteral origin{n }
 ...\pdfliteral origin{Q }
 ...\glue 0.0 plus 1.0fil minus 1.0fil
-.\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
 ! OK.
-\ENDBOXTEST ...th =\maxdimen \showbox \PGFTESTBOX 
-                                                  \endgroup \ENDTEST 
+<argument> \PGFTESTBOX 
 l. ...\ENDBOXTEST
 ============================================================

@@ -4,7 +4,17 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## Unreleased
+## [3.1.12] - 2026-08-01 Henri Menke
+
+### BREAKING CHANGES
+
+- PGF/TikZ now requires support for the braced `\input{...}` syntax, i.e. TeX
+  built with Web2C 2020 or newer.
+- When using LaTeX the internal functions `\pgfutil@IfFileExists` and
+  `\pgfutil@InputIfFileExists` are now aliases to their counterparts from the
+  LaTeX format. This could potentially change the precedence in file lookup.
+- The precision of the scaling operation from bp to pt has been improved, which
+  changes all the values emitted in the PDF literals. #1434
 
 ### Fixed
 
@@ -18,22 +28,42 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 - Fix mis-spelled Kellermann to Kellerman
 - Support an apply-all feature (suggested in issue #640) to
   apply a single definition of options to multiple examples.
+- Support directions in LuaTeX and LuaMetaTeX
+- Fix unused variable in tikzmath example #1142
+- Correct source comment on `\pgfshadepath` #437
+- Mention `\pgfinterruptpath` in the documentation of `\pgfextra` #1327
+- Prevent math active character from causing infinite loops #1391
+- Extended the valid range of `\pgfmathscientific` #1444
 
 ### Added
 
+- Comprehenive testsuite generated from the examples in the manual #666
 - Documentation of `\pgfkeysifassignable` #1423
 - Add a new monotonic interpolation plot handler #1358
-- The keys `actualtext`, `alt`, and `artifact` are now pre-defined as no-ops for usage in tagging #1370
+- The keys `actualtext`, `alt`, and `artifact` are now pre-defined
+  in both `tikz` and `pgf` as  no-ops for usage in tagging #1370 #1453
+- Documentation of the default z-axis vector #611
+- The manual now has PDF bookmarks for the index sections #1307
+- New expansion helpers and emptiness check in pgfkeys #1254
 
 ### Changed
 
 - Typo fixes in the manual
+- Replace `\begingroup`...`\endgroup` by an explicit brace group in `pgfscope` to fix usage in alignments #1417
+- Update the engine requirements in the manual #1242
+
+### Removed
+
+- The long deprecated `vtex` and `textures` drivers have been removed
+- The long deprecated `pgfutil-common-lists` (part of pgfplots since 1.18.2) has been removed
+- Removed duplicate definition of `\pgfmath@tempdima` in pgfutil #1384
 
 ### Contributors
 
 - Dominik Peters
 - Erin Cold
 - Hanson Char
+- Udi Fogiel
 
 ## [3.1.11a] - 2025-08-29 Henri Menke
 
@@ -3384,7 +3414,8 @@ will be the stable version.
 - Created ChangeLog
 - Added pgfshade.sty
 
-[Unreleased]: https://github.com/pgf-tikz/pgf/compare/3.1.11a...HEAD
+[Unreleased]: https://github.com/pgf-tikz/pgf/compare/3.1.12...HEAD
+[3.1.12]: https://github.com/pgf-tikz/pgf/compare/3.1.11a...3.1.12
 [3.1.11a]: https://github.com/pgf-tikz/pgf/compare/3.1.11...3.1.11a
 [3.1.11]: https://github.com/pgf-tikz/pgf/compare/3.1.10...3.1.11
 [3.1.10]: https://github.com/pgf-tikz/pgf/compare/3.1.9a...3.1.10

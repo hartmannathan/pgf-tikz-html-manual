@@ -1,0 +1,165 @@
+This is a generated file for the l3build validation system.
+Don't change this file in any respect.
+============================================================
+TEST 1: picture embedded in RTL paragraph
+============================================================
+> \box...=
+\hbox(23.6583+0.0)x267.16666, direction TRT
+.\hbox(23.6583+0.0)x267.16666, direction TLT
+..\glue 133.58333
+..\hbox(0.0+0.0)x0.0, shifted -15.84164, direction TLT
+...\pdfliteral origin{q }
+...\pdfliteral origin{0 G }
+...\pdfliteral origin{0 g }
+...\pdfliteral origin{0.39851 w }
+...\pdfliteral origin{q }
+...\hbox(0.0+0.0)x0.0, direction TLT
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\pdfliteral origin{q }
+....\pdfliteral origin{0.835 g }
+....\pdfliteral origin{-133.08427 -15.78247 m }
+....\pdfliteral origin{-133.08427 -15.78247 m }
+....\pdfliteral origin{-133.08427 7.78746 l }
+....\pdfliteral origin{133.08427 7.78746 l }
+....\pdfliteral origin{133.08427 -15.78247 l }
+....\pdfliteral origin{h }
+....\pdfliteral origin{133.08427 7.78746 m }
+....\pdfliteral origin{f }
+....\glue(\spaceskip) 0.0
+....\pdfliteral origin{Q }
+....\glue 0.0 plus 1.0fil minus 1.0fil
+...\pdfliteral origin{Q }
+...\hbox(0.0+0.0)x0.0, direction TLT
+....\pdfliteral origin{q }
+....\glue(\spaceskip) 0.0
+....\hbox(0.0+0.0)x0.0, direction TLT
+.....\hbox(0.0+0.0)x0.0, direction TLT
+......\pdfliteral origin{q }
+......\glue(\spaceskip) 0.0
+......\glue(\spaceskip) 0.0
+......\glue(\spaceskip) 0.0
+......\glue(\spaceskip) 0.0
+......\pdfliteral origin{-128.89166 -3.59485 257.78333 7.1897 re }
+......\pdfliteral origin{S }
+......\glue(\spaceskip) 0.0
+......\pdfliteral origin{q }
+......\hbox(0.0+0.0)x0.0, direction TLT
+.......\glue -129.375
+.......\hbox(0.0+0.0)x0.0, shifted 3.34999, direction TLT
+........\pdfliteral origin{1.0 0.0 0.0 1.0 0.0 0.0 cm }
+........\pdfliteral origin{q }
+........\hbox(0.0+0.0)x0.0, direction TLT
+.........\hbox(6.95833+0.25833)x258.75, direction TLT
+..........\pdfliteral origin{0 G }
+..........\pdfliteral origin{0 g }
+..........\hbox(6.95833+0.25833)x258.75, direction TLT
+...........\begindir TRT
+...........\vbox(6.95833+0.25833)x258.75, direction TRT
+............\hbox(6.95833+0.25833)x258.75, glue set 142.80978fil, direction TRT
+.............\localpar
+..............\localinterlinepenalty=0
+..............\localbrokenpenalty=0
+..............\localleftbox=null
+..............\localrightbox=null
+.............\hbox(0.0+0.0)x0.0, direction TRT
+.............\hbox(0.0+0.0)x0.0, direction TRT
+.............\TU/DavidCLM(0)/m/n/10 ל
+.............\TU/DavidCLM(0)/m/n/10 ו
+.............\TU/DavidCLM(0)/m/n/10 ר
+.............\TU/DavidCLM(0)/m/n/10 ם
+.............\glue(\spaceskip) 3.33298
+.............\TU/DavidCLM(0)/m/n/10 א
+.............\TU/DavidCLM(0)/m/n/10 י
+.............\TU/DavidCLM(0)/m/n/10 פ
+.............\TU/DavidCLM(0)/m/n/10 ס
+.............\TU/DavidCLM(0)/m/n/10 ו
+.............\TU/DavidCLM(0)/m/n/10 ם
+.............\glue(\spaceskip) 3.33298
+.............\TU/DavidCLM(0)/m/n/10 ד
+.............\TU/DavidCLM(0)/m/n/10 ו
+.............\TU/DavidCLM(0)/m/n/10 ל
+.............\TU/DavidCLM(0)/m/n/10 ו
+.............\TU/DavidCLM(0)/m/n/10 ר
+.............\glue(\spaceskip) 3.33298
+.............\TU/DavidCLM(0)/m/n/10 ס
+.............\TU/DavidCLM(0)/m/n/10 י
+.............\TU/DavidCLM(0)/m/n/10 ט
+.............\glue(\spaceskip) 3.33298
+.............\TU/DavidCLM(0)/m/n/10 א
+.............\TU/DavidCLM(0)/m/n/10 מ
+.............\TU/DavidCLM(0)/m/n/10 ט
+.............\TU/DavidCLM(0)/m/n/10 .
+.............\penalty 10000
+.............\glue(\parfillskip) 0.0 plus 1.0fil
+.............\glue(\rightskip) 0.0 plus 20.0
+...........\enddir TRT
+..........\glue(\spaceskip) 0.0
+........\pdfliteral origin{Q }
+........\glue(\spaceskip) 0.0
+.......\glue 0.0 plus 1.0fil minus 1.0fil
+......\pdfliteral origin{Q }
+......\glue(\spaceskip) 0.0
+......\pdfliteral origin{Q }
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\hbox(0.0+0.0)x0.0, direction TLT
+.....\hbox(0.0+0.0)x0.0, direction TLT
+......\pdfliteral origin{q }
+......\glue(\spaceskip) 0.0
+......\glue(\spaceskip) 0.0
+......\pdfliteral origin{87.94524 -11.58986 40.94644 7.99503 re }
+......\pdfliteral origin{S }
+......\glue(\spaceskip) 0.0
+......\pdfliteral origin{q }
+......\hbox(0.0+0.0)x0.0, direction TLT
+.......\glue 88.27502
+.......\hbox(0.0+0.0)x0.0, shifted 10.56665, direction TLT
+........\pdfliteral origin{1.0 0.0 0.0 1.0 0.0 0.0 cm }
+........\pdfliteral origin{q }
+........\hbox(0.0+0.0)x0.0, direction TLT
+.........\hbox(6.95833+1.06667)x41.09998, direction TLT
+..........\pdfliteral origin{0 G }
+..........\pdfliteral origin{0 g }
+..........\hbox(6.95833+1.06667)x41.09998, direction TLT
+...........\begindir TRT
+...........\TU/DavidCLM(0)/m/n/10 ש
+...........\TU/DavidCLM(0)/m/n/10 ל
+...........\TU/DavidCLM(0)/m/n/10 ו
+...........\TU/DavidCLM(0)/m/n/10 ם
+...........\glue(\spaceskip) 3.5 plus 1.75 minus 1.16667
+...........\TU/DavidCLM(0)/m/n/10 ע
+...........\TU/DavidCLM(0)/m/n/10 ו
+...........\TU/DavidCLM(0)/m/n/10 ל
+...........\TU/DavidCLM(0)/m/n/10 ם
+...........\enddir TRT
+..........\glue(\spaceskip) 0.0
+........\pdfliteral origin{Q }
+........\glue(\spaceskip) 0.0
+.......\glue 0.0 plus 1.0fil minus 1.0fil
+......\pdfliteral origin{Q }
+......\glue(\spaceskip) 0.0
+......\pdfliteral origin{Q }
+....\glue(\spaceskip) 0.0
+....\glue(\spaceskip) 0.0
+....\pdfliteral origin{108.41846 -7.59236 m }
+....\pdfliteral origin{109.41472 -7.59236 m }
+....\pdfliteral origin{109.41472 -7.04213 108.96867 -6.59608 108.41846 -6.59608 c }
+....\pdfliteral origin{107.86823 -6.59608 107.42218 -7.04213 107.42218 -7.59236 c }
+....\pdfliteral origin{107.42218 -8.14258 107.86823 -8.58862 108.41846 -8.58862 c }
+....\pdfliteral origin{108.96867 -8.58862 109.41472 -8.14258 109.41472 -7.59236 c }
+....\pdfliteral origin{h }
+....\pdfliteral origin{108.41846 -7.59236 m }
+....\pdfliteral origin{B }
+....\glue(\spaceskip) 0.0
+....\pdfliteral origin{0.39851 w }
+....\glue(\spaceskip) 0.0
+....\pdfliteral origin{Q }
+....\glue 0.0 plus 1.0fil minus 1.0fil
+...\pdfliteral origin{n }
+...\pdfliteral origin{Q }
+...\glue 0.0 plus 1.0fil minus 1.0fil
+! OK.
+<argument> \PGFTESTBOX 
+l. ...\ENDBOXTEST
+============================================================
